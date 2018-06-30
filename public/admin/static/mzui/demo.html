@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>MZUI</title>
+
+    <!-- MZUI CSS file -->
+    <link href="css/mzui.min.css" rel="stylesheet">
+</head>
+<body>
+<h1>Hello, world!</h1>
+
+<!-- MZUI JS file -->
+<script src="js/mzui.min.js"></script>
+
+
+<form id="login_form" action="/cp/api/login/login" method="post">
+    <div class="control" id="control_username">
+        <input name="username" type="text" class="input" placeholder="请输入用户名">
+        <p class="help-text" id="help_username"></p>
+    </div>
+    <div class="control">
+        <input name="password" type="password" class="input" placeholder="请输入密码">
+    </div>
+    <div class="control">
+        <input name="verifycode" type="text" class="input" placeholder="请输入验证码"/>
+        <img src="/cp/api/verifycode/register"
+             onclick="this.src='/cp/api/verifycode/register?t='+new Date().getTime()">
+    </div>
+    <button class="btn primary" type="submit">提交</button>
+</form>
+
+
+<form id="register_form" action="/cp/api/user/register" method="post">
+    <div class="control">
+        <input name="username" type="text" class="input" placeholder="请输入用户名">
+    </div>
+    <div class="control">
+        <input name="password1" type="password" class="input" placeholder="请输入密码">
+    </div>
+    <div class="control">
+        <input name="password2" type="password" class="input" placeholder="请输入确认密码">
+    </div>
+    <div class="control">
+        <input name="verifycode" type="text" class="input" placeholder="请输入验证码"/>
+        <img src="/cp/api/verifycode/register"
+             onclick="this.src='/cp/api/verifycode/register?t='+new Date().getTime()">
+    </div>
+    <button class="btn primary" type="submit">提交</button>
+</form>
+
+
+<script>
+    $('#login_form').ajaxform({
+        onResult: function (response) {
+            // 处理服务器返回的结果
+            if (response.retcode == 0) {
+                $.messager.show(response.msg, {type: 'success', placement: 'bottom'});
+                $.messager.show(response.data.user.balance, {type: 'success', placement: 'bottom'});
+            } else {
+                $.messager.show(response.msg, {type: 'warning', placement: 'bottom'});
+                $("#control_username").addClass('has-error')
+                $("#help_username").html(response.msg)
+            }
+        }
+    });
+    $('#register_form').ajaxform({
+        onResult: function (response) {
+            // 处理服务器返回的结果
+            if (response.retcode == 0) {
+                Toast("密码只能包含字母和数字",1000);
+
+            } else {
+                $.messager.show(response.msg, {type: 'warning', placement: 'bottom'});
+        }
+        }
+    });
+
+    function Toast(msg,timeout) {
+        $.messager.show(msg, {type: 'warning', placement: 'bottom'},timeout);
+    }
+    function get_now_period() {
+        $.ajax({
+            type: "POST",
+            url: '/cp/api/game_ahk3/period?t=' + new Date().getTime(),
+            data: {},
+            dataType: "json",
+            success: function (data) {
+                alert(data.now_period);
+                kj_left = parseInt(data.now_left);
+                forbid = parseInt(data.forbid);
+                fp_left = kj_left - forbid;
+                now_period = data.now_period;
+                next_period = data.next_period;
+
+            }
+        });
+    }
+
+</script>
+</body>
+</html>

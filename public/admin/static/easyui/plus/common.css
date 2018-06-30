@@ -1,0 +1,77 @@
+textarea {
+    font-size: 13px;
+}
+
+.fitem {
+    margin-bottom: 5px;
+}
+
+.fitem label {
+    display: inline-block;
+    width: 90px;
+    font-size: 12px;
+}
+
+.fm .fitem label {
+    display: inline-block;
+    width: 90px;
+    font-size: 12px;
+}
+
+#fm {
+    margin: 0;
+    font-size: 12px;
+}
+
+#fm .ftitle {
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 0;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+#fm .fitem {
+    margin-bottom: 5px;
+}
+
+#fm .fitem2 {
+    margin-bottom: 5px;
+    float: left;
+    padding: 10px;
+}
+
+#fm .fitem label {
+    display: inline-block;
+    width: 90px;
+    font-size: 12px;
+}
+
+.fileinput-button {
+    margin-right: 4px;
+    overflow: hidden;
+    position: relative;
+}
+
+.validatebox-invalid {
+    background: #fff3f3;
+    border-color: #cccccc;
+    border-width: 1px;
+}
+
+* {
+    font-family: "Helvetica Neue", Helvetica, Tahoma, Arial, 'Microsoft Yahei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+}
+
+.tree-title {
+    /*font-size: 14px;*/
+}
+
+.datagrid-cell ,.datagrid-cell-check ,.datagrid-header-check{
+    font-size: 14px;
+    padding: 6px;
+}
+.datagrid-header-row .datagrid-cell span {
+    font-size: 14px;
+    font-weight: bold;
+}

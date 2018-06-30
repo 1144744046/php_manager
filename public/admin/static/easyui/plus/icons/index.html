@@ -1,0 +1,32 @@
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="icon.css">
+</head>
+<body>
+
+<div>css:&nbsp;<input id="css" name="css" type="text" style="width: 200px" /></div>
+<br />
+<script>
+    function getstyle() {
+        for (var i = 0; i < document.styleSheets.length; i++) {
+            var rules;
+            if (document.styleSheets[i].cssRules) {
+                rules = document.styleSheets[i].cssRules;
+            }
+            else {
+                rules = document.styleSheets[i].rules;
+            }
+            for (var j = 0; j < rules.length; j++) {
+                //alert(1);
+                css = rules[j].selectorText.replace('.','');;
+                pic = css.replace('icon-','');
+                str = '<div style="float: left;padding: 5px;"> <img style="cursor: pointer" src="img/'+pic+'.png" onclick="javascript:document.getElementById(\'css\').value=\''+css+'\'" /></div>';
+                //alert(str)
+                document.write(str);
+            }
+        }
+    }
+    getstyle();
+</script>
+</body>
+</html>

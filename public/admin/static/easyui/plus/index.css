@@ -1,0 +1,23 @@
+#mainLayout > div.layout-panel-east > div.panel-header {
+    border-left-width: 0;
+}
+
+#eastLayout > div.layout-panel-center > div.panel-header {
+    border-top-width: 0;
+}
+
+.tabs-tool table {
+    border-width: 0;
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.tabs-tool table td {
+    padding: 0;
+}
+
+#index_online_num_span{
+    font-weight: bold;
+    font-size: 14px;
+    color: blue;
+}

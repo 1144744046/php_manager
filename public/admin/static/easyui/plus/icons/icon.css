@@ -1,0 +1,3002 @@
+﻿/*直接把Css目前放在自己的项目中，在使用的页面引入icon.css文件*/
+
+.icon-accept
+  {    background: url('img/accept.png') no-repeat scroll center center transparent;
+}
+.icon-add
+  {    background: url('img/add.png') no-repeat scroll center center transparent;
+}
+.icon-anchor
+  {    background: url('img/anchor.png') no-repeat scroll center center transparent;
+}
+.icon-application
+  {    background: url('img/application.png') no-repeat scroll center center transparent;
+}
+.icon-application_add
+  {    background: url('img/application_add.png') no-repeat scroll center center transparent;
+}
+.icon-application_cascade
+  {    background: url('img/application_cascade.png') no-repeat scroll center center transparent;
+}
+.icon-application_delete
+  {    background: url('img/application_delete.png') no-repeat scroll center center transparent;
+}
+.icon-application_double
+  {    background: url('img/application_double.png') no-repeat scroll center center transparent;
+}
+.icon-application_edit
+  {    background: url('img/application_edit.png') no-repeat scroll center center transparent;
+}
+.icon-application_error
+  {    background: url('img/application_error.png') no-repeat scroll center center transparent;
+}
+.icon-application_form
+  {    background: url('img/application_form.png') no-repeat scroll center center transparent;
+}
+.icon-application_form_add
+  {    background: url('img/application_form_add.png') no-repeat scroll center center transparent;
+}
+.icon-application_form_delete
+  {    background: url('img/application_form_delete.png') no-repeat scroll center center transparent;
+}
+.icon-application_form_edit
+  {    background: url('img/application_form_edit.png') no-repeat scroll center center transparent;
+}
+.icon-application_form_magnify
+  {    background: url('img/application_form_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-application_get
+  {    background: url('img/application_get.png') no-repeat scroll center center transparent;
+}
+.icon-application_go
+  {    background: url('img/application_go.png') no-repeat scroll center center transparent;
+}
+.icon-application_home
+  {    background: url('img/application_home.png') no-repeat scroll center center transparent;
+}
+.icon-application_key
+  {    background: url('img/application_key.png') no-repeat scroll center center transparent;
+}
+.icon-application_lightning
+  {    background: url('img/application_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-application_link
+  {    background: url('img/application_link.png') no-repeat scroll center center transparent;
+}
+.icon-application_osx
+  {    background: url('img/application_osx.png') no-repeat scroll center center transparent;
+}
+.icon-application_osx_terminal
+  {    background: url('img/application_osx_terminal.png') no-repeat scroll center center transparent;
+}
+.icon-application_put
+  {    background: url('img/application_put.png') no-repeat scroll center center transparent;
+}
+.icon-application_side_boxes
+  {    background: url('img/application_side_boxes.png') no-repeat scroll center center transparent;
+}
+.icon-application_side_contract
+  {    background: url('img/application_side_contract.png') no-repeat scroll center center transparent;
+}
+.icon-application_side_expand
+  {    background: url('img/application_side_expand.png') no-repeat scroll center center transparent;
+}
+.icon-application_side_list
+  {    background: url('img/application_side_list.png') no-repeat scroll center center transparent;
+}
+.icon-application_side_tree
+  {    background: url('img/application_side_tree.png') no-repeat scroll center center transparent;
+}
+.icon-application_split
+  {    background: url('img/application_split.png') no-repeat scroll center center transparent;
+}
+.icon-application_tile_horizontal
+  {    background: url('img/application_tile_horizontal.png') no-repeat scroll center center transparent;
+}
+.icon-application_tile_vertical
+  {    background: url('img/application_tile_vertical.png') no-repeat scroll center center transparent;
+}
+.icon-application_view_columns
+  {    background: url('img/application_view_columns.png') no-repeat scroll center center transparent;
+}
+.icon-application_view_detail
+  {    background: url('img/application_view_detail.png') no-repeat scroll center center transparent;
+}
+.icon-application_view_gallery
+  {    background: url('img/application_view_gallery.png') no-repeat scroll center center transparent;
+}
+.icon-application_view_icons
+  {    background: url('img/application_view_icons.png') no-repeat scroll center center transparent;
+}
+.icon-application_view_list
+  {    background: url('img/application_view_list.png') no-repeat scroll center center transparent;
+}
+.icon-application_view_tile
+  {    background: url('img/application_view_tile.png') no-repeat scroll center center transparent;
+}
+.icon-application_xp
+  {    background: url('img/application_xp.png') no-repeat scroll center center transparent;
+}
+.icon-application_xp_terminal
+  {    background: url('img/application_xp_terminal.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_branch
+  {    background: url('img/arrow_branch.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_divide
+  {    background: url('img/arrow_divide.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_down
+  {    background: url('img/arrow_down.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_in
+  {    background: url('img/arrow_in.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_inout
+  {    background: url('img/arrow_inout.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_join
+  {    background: url('img/arrow_join.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_left
+  {    background: url('img/arrow_left.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_merge
+  {    background: url('img/arrow_merge.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_out
+  {    background: url('img/arrow_out.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_redo
+  {    background: url('img/arrow_redo.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_refresh
+  {    background: url('img/arrow_refresh.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_refresh_small
+  {    background: url('img/arrow_refresh_small.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_right
+  {    background: url('img/arrow_right.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_rotate_anticlockwise
+  {    background: url('img/arrow_rotate_anticlockwise.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_rotate_clockwise
+  {    background: url('img/arrow_rotate_clockwise.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_switch
+  {    background: url('img/arrow_switch.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_turn_left
+  {    background: url('img/arrow_turn_left.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_turn_right
+  {    background: url('img/arrow_turn_right.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_undo
+  {    background: url('img/arrow_undo.png') no-repeat scroll center center transparent;
+}
+.icon-arrow_up
+  {    background: url('img/arrow_up.png') no-repeat scroll center center transparent;
+}
+.icon-asterisk_orange
+  {    background: url('img/asterisk_orange.png') no-repeat scroll center center transparent;
+}
+.icon-asterisk_yellow
+  {    background: url('img/asterisk_yellow.png') no-repeat scroll center center transparent;
+}
+.icon-attach
+  {    background: url('img/attach.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_add
+  {    background: url('img/award_star_add.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_bronze_1
+  {    background: url('img/award_star_bronze_1.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_bronze_2
+  {    background: url('img/award_star_bronze_2.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_bronze_3
+  {    background: url('img/award_star_bronze_3.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_delete
+  {    background: url('img/award_star_delete.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_gold_1
+  {    background: url('img/award_star_gold_1.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_gold_2
+  {    background: url('img/award_star_gold_2.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_gold_3
+  {    background: url('img/award_star_gold_3.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_silver_1
+  {    background: url('img/award_star_silver_1.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_silver_2
+  {    background: url('img/award_star_silver_2.png') no-repeat scroll center center transparent;
+}
+.icon-award_star_silver_3
+  {    background: url('img/award_star_silver_3.png') no-repeat scroll center center transparent;
+}
+.icon-basket
+  {    background: url('img/basket.png') no-repeat scroll center center transparent;
+}
+.icon-basket_add
+  {    background: url('img/basket_add.png') no-repeat scroll center center transparent;
+}
+.icon-basket_delete
+  {    background: url('img/basket_delete.png') no-repeat scroll center center transparent;
+}
+.icon-basket_edit
+  {    background: url('img/basket_edit.png') no-repeat scroll center center transparent;
+}
+.icon-basket_error
+  {    background: url('img/basket_error.png') no-repeat scroll center center transparent;
+}
+.icon-basket_go
+  {    background: url('img/basket_go.png') no-repeat scroll center center transparent;
+}
+.icon-basket_put
+  {    background: url('img/basket_put.png') no-repeat scroll center center transparent;
+}
+.icon-basket_remove
+  {    background: url('img/basket_remove.png') no-repeat scroll center center transparent;
+}
+.icon-bell
+  {    background: url('img/bell.png') no-repeat scroll center center transparent;
+}
+.icon-bell_add
+  {    background: url('img/bell_add.png') no-repeat scroll center center transparent;
+}
+.icon-bell_delete
+  {    background: url('img/bell_delete.png') no-repeat scroll center center transparent;
+}
+.icon-bell_error
+  {    background: url('img/bell_error.png') no-repeat scroll center center transparent;
+}
+.icon-bell_go
+  {    background: url('img/bell_go.png') no-repeat scroll center center transparent;
+}
+.icon-bell_link
+  {    background: url('img/bell_link.png') no-repeat scroll center center transparent;
+}
+.icon-bin
+  {    background: url('img/bin.png') no-repeat scroll center center transparent;
+}
+.icon-bin_closed
+  {    background: url('img/bin_closed.png') no-repeat scroll center center transparent;
+}
+.icon-bin_empty
+  {    background: url('img/bin_empty.png') no-repeat scroll center center transparent;
+}
+.icon-bomb
+  {    background: url('img/bomb.png') no-repeat scroll center center transparent;
+}
+.icon-book
+  {    background: url('img/book.png') no-repeat scroll center center transparent;
+}
+.icon-book_add
+  {    background: url('img/book_add.png') no-repeat scroll center center transparent;
+}
+.icon-book_addresses
+  {    background: url('img/book_addresses.png') no-repeat scroll center center transparent;
+}
+.icon-book_delete
+  {    background: url('img/book_delete.png') no-repeat scroll center center transparent;
+}
+.icon-book_edit
+  {    background: url('img/book_edit.png') no-repeat scroll center center transparent;
+}
+.icon-book_error
+  {    background: url('img/book_error.png') no-repeat scroll center center transparent;
+}
+.icon-book_go
+  {    background: url('img/book_go.png') no-repeat scroll center center transparent;
+}
+.icon-book_key
+  {    background: url('img/book_key.png') no-repeat scroll center center transparent;
+}
+.icon-book_link
+  {    background: url('img/book_link.png') no-repeat scroll center center transparent;
+}
+.icon-book_next
+  {    background: url('img/book_next.png') no-repeat scroll center center transparent;
+}
+.icon-book_open
+  {    background: url('img/book_open.png') no-repeat scroll center center transparent;
+}
+.icon-book_previous
+  {    background: url('img/book_previous.png') no-repeat scroll center center transparent;
+}
+.icon-box
+  {    background: url('img/box.png') no-repeat scroll center center transparent;
+}
+.icon-brick
+  {    background: url('img/brick.png') no-repeat scroll center center transparent;
+}
+.icon-bricks
+  {    background: url('img/bricks.png') no-repeat scroll center center transparent;
+}
+.icon-brick_add
+  {    background: url('img/brick_add.png') no-repeat scroll center center transparent;
+}
+.icon-brick_delete
+  {    background: url('img/brick_delete.png') no-repeat scroll center center transparent;
+}
+.icon-brick_edit
+  {    background: url('img/brick_edit.png') no-repeat scroll center center transparent;
+}
+.icon-brick_error
+  {    background: url('img/brick_error.png') no-repeat scroll center center transparent;
+}
+.icon-brick_go
+  {    background: url('img/brick_go.png') no-repeat scroll center center transparent;
+}
+.icon-brick_link
+  {    background: url('img/brick_link.png') no-repeat scroll center center transparent;
+}
+.icon-briefcase
+  {    background: url('img/briefcase.png') no-repeat scroll center center transparent;
+}
+.icon-bug
+  {    background: url('img/bug.png') no-repeat scroll center center transparent;
+}
+.icon-bug_add
+  {    background: url('img/bug_add.png') no-repeat scroll center center transparent;
+}
+.icon-bug_delete
+  {    background: url('img/bug_delete.png') no-repeat scroll center center transparent;
+}
+.icon-bug_edit
+  {    background: url('img/bug_edit.png') no-repeat scroll center center transparent;
+}
+.icon-bug_error
+  {    background: url('img/bug_error.png') no-repeat scroll center center transparent;
+}
+.icon-bug_go
+  {    background: url('img/bug_go.png') no-repeat scroll center center transparent;
+}
+.icon-bug_link
+  {    background: url('img/bug_link.png') no-repeat scroll center center transparent;
+}
+.icon-building
+  {    background: url('img/building.png') no-repeat scroll center center transparent;
+}
+.icon-building_add
+  {    background: url('img/building_add.png') no-repeat scroll center center transparent;
+}
+.icon-building_delete
+  {    background: url('img/building_delete.png') no-repeat scroll center center transparent;
+}
+.icon-building_edit
+  {    background: url('img/building_edit.png') no-repeat scroll center center transparent;
+}
+.icon-building_error
+  {    background: url('img/building_error.png') no-repeat scroll center center transparent;
+}
+.icon-building_go
+  {    background: url('img/building_go.png') no-repeat scroll center center transparent;
+}
+.icon-building_key
+  {    background: url('img/building_key.png') no-repeat scroll center center transparent;
+}
+.icon-building_link
+  {    background: url('img/building_link.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_add
+  {    background: url('img/bullet_add.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_arrow_bottom
+  {    background: url('img/bullet_arrow_bottom.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_arrow_down
+  {    background: url('img/bullet_arrow_down.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_arrow_top
+  {    background: url('img/bullet_arrow_top.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_arrow_up
+  {    background: url('img/bullet_arrow_up.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_black
+  {    background: url('img/bullet_black.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_blue
+  {    background: url('img/bullet_blue.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_delete
+  {    background: url('img/bullet_delete.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_disk
+  {    background: url('img/bullet_disk.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_error
+  {    background: url('img/bullet_error.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_feed
+  {    background: url('img/bullet_feed.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_go
+  {    background: url('img/bullet_go.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_green
+  {    background: url('img/bullet_green.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_key
+  {    background: url('img/bullet_key.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_orange
+  {    background: url('img/bullet_orange.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_picture
+  {    background: url('img/bullet_picture.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_pink
+  {    background: url('img/bullet_pink.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_purple
+  {    background: url('img/bullet_purple.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_red
+  {    background: url('img/bullet_red.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_star
+  {    background: url('img/bullet_star.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_toggle_minus
+  {    background: url('img/bullet_toggle_minus.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_toggle_plus
+  {    background: url('img/bullet_toggle_plus.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_white
+  {    background: url('img/bullet_white.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_wrench
+  {    background: url('img/bullet_wrench.png') no-repeat scroll center center transparent;
+}
+.icon-bullet_yellow
+  {    background: url('img/bullet_yellow.png') no-repeat scroll center center transparent;
+}
+.icon-cake
+  {    background: url('img/cake.png') no-repeat scroll center center transparent;
+}
+.icon-calculator
+  {    background: url('img/calculator.png') no-repeat scroll center center transparent;
+}
+.icon-calculator_add
+  {    background: url('img/calculator_add.png') no-repeat scroll center center transparent;
+}
+.icon-calculator_delete
+  {    background: url('img/calculator_delete.png') no-repeat scroll center center transparent;
+}
+.icon-calculator_edit
+  {    background: url('img/calculator_edit.png') no-repeat scroll center center transparent;
+}
+.icon-calculator_error
+  {    background: url('img/calculator_error.png') no-repeat scroll center center transparent;
+}
+.icon-calculator_link
+  {    background: url('img/calculator_link.png') no-repeat scroll center center transparent;
+}
+.icon-calendar
+  {    background: url('img/calendar.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_add
+  {    background: url('img/calendar_add.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_delete
+  {    background: url('img/calendar_delete.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_edit
+  {    background: url('img/calendar_edit.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_link
+  {    background: url('img/calendar_link.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_view_day
+  {    background: url('img/calendar_view_day.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_view_month
+  {    background: url('img/calendar_view_month.png') no-repeat scroll center center transparent;
+}
+.icon-calendar_view_week
+  {    background: url('img/calendar_view_week.png') no-repeat scroll center center transparent;
+}
+.icon-camera
+  {    background: url('img/camera.png') no-repeat scroll center center transparent;
+}
+.icon-camera_add
+  {    background: url('img/camera_add.png') no-repeat scroll center center transparent;
+}
+.icon-camera_delete
+  {    background: url('img/camera_delete.png') no-repeat scroll center center transparent;
+}
+.icon-camera_edit
+  {    background: url('img/camera_edit.png') no-repeat scroll center center transparent;
+}
+.icon-camera_error
+  {    background: url('img/camera_error.png') no-repeat scroll center center transparent;
+}
+.icon-camera_go
+  {    background: url('img/camera_go.png') no-repeat scroll center center transparent;
+}
+.icon-camera_link
+  {    background: url('img/camera_link.png') no-repeat scroll center center transparent;
+}
+.icon-camera_small
+  {    background: url('img/camera_small.png') no-repeat scroll center center transparent;
+}
+.icon-cancel
+  {    background: url('img/cancel.png') no-repeat scroll center center transparent;
+}
+.icon-car
+  {    background: url('img/car.png') no-repeat scroll center center transparent;
+}
+.icon-cart
+  {    background: url('img/cart.png') no-repeat scroll center center transparent;
+}
+.icon-cart_add
+  {    background: url('img/cart_add.png') no-repeat scroll center center transparent;
+}
+.icon-cart_delete
+  {    background: url('img/cart_delete.png') no-repeat scroll center center transparent;
+}
+.icon-cart_edit
+  {    background: url('img/cart_edit.png') no-repeat scroll center center transparent;
+}
+.icon-cart_error
+  {    background: url('img/cart_error.png') no-repeat scroll center center transparent;
+}
+.icon-cart_go
+  {    background: url('img/cart_go.png') no-repeat scroll center center transparent;
+}
+.icon-cart_put
+  {    background: url('img/cart_put.png') no-repeat scroll center center transparent;
+}
+.icon-cart_remove
+  {    background: url('img/cart_remove.png') no-repeat scroll center center transparent;
+}
+.icon-car_add
+  {    background: url('img/car_add.png') no-repeat scroll center center transparent;
+}
+.icon-car_delete
+  {    background: url('img/car_delete.png') no-repeat scroll center center transparent;
+}
+.icon-cd
+  {    background: url('img/cd.png') no-repeat scroll center center transparent;
+}
+.icon-cd_add
+  {    background: url('img/cd_add.png') no-repeat scroll center center transparent;
+}
+.icon-cd_burn
+  {    background: url('img/cd_burn.png') no-repeat scroll center center transparent;
+}
+.icon-cd_delete
+  {    background: url('img/cd_delete.png') no-repeat scroll center center transparent;
+}
+.icon-cd_edit
+  {    background: url('img/cd_edit.png') no-repeat scroll center center transparent;
+}
+.icon-cd_eject
+  {    background: url('img/cd_eject.png') no-repeat scroll center center transparent;
+}
+.icon-cd_go
+  {    background: url('img/cd_go.png') no-repeat scroll center center transparent;
+}
+.icon-chart_bar
+  {    background: url('img/chart_bar.png') no-repeat scroll center center transparent;
+}
+.icon-chart_bar_add
+  {    background: url('img/chart_bar_add.png') no-repeat scroll center center transparent;
+}
+.icon-chart_bar_delete
+  {    background: url('img/chart_bar_delete.png') no-repeat scroll center center transparent;
+}
+.icon-chart_bar_edit
+  {    background: url('img/chart_bar_edit.png') no-repeat scroll center center transparent;
+}
+.icon-chart_bar_error
+  {    background: url('img/chart_bar_error.png') no-repeat scroll center center transparent;
+}
+.icon-chart_bar_link
+  {    background: url('img/chart_bar_link.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve
+  {    background: url('img/chart_curve.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve_add
+  {    background: url('img/chart_curve_add.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve_delete
+  {    background: url('img/chart_curve_delete.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve_edit
+  {    background: url('img/chart_curve_edit.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve_error
+  {    background: url('img/chart_curve_error.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve_go
+  {    background: url('img/chart_curve_go.png') no-repeat scroll center center transparent;
+}
+.icon-chart_curve_link
+  {    background: url('img/chart_curve_link.png') no-repeat scroll center center transparent;
+}
+.icon-chart_line
+  {    background: url('img/chart_line.png') no-repeat scroll center center transparent;
+}
+.icon-chart_line_add
+  {    background: url('img/chart_line_add.png') no-repeat scroll center center transparent;
+}
+.icon-chart_line_delete
+  {    background: url('img/chart_line_delete.png') no-repeat scroll center center transparent;
+}
+.icon-chart_line_edit
+  {    background: url('img/chart_line_edit.png') no-repeat scroll center center transparent;
+}
+.icon-chart_line_error
+  {    background: url('img/chart_line_error.png') no-repeat scroll center center transparent;
+}
+.icon-chart_line_link
+  {    background: url('img/chart_line_link.png') no-repeat scroll center center transparent;
+}
+.icon-chart_organisation
+  {    background: url('img/chart_organisation.png') no-repeat scroll center center transparent;
+}
+.icon-chart_organisation_add
+  {    background: url('img/chart_organisation_add.png') no-repeat scroll center center transparent;
+}
+.icon-chart_organisation_delete
+  {    background: url('img/chart_organisation_delete.png') no-repeat scroll center center transparent;
+}
+.icon-chart_pie
+  {    background: url('img/chart_pie.png') no-repeat scroll center center transparent;
+}
+.icon-chart_pie_add
+  {    background: url('img/chart_pie_add.png') no-repeat scroll center center transparent;
+}
+.icon-chart_pie_delete
+  {    background: url('img/chart_pie_delete.png') no-repeat scroll center center transparent;
+}
+.icon-chart_pie_edit
+  {    background: url('img/chart_pie_edit.png') no-repeat scroll center center transparent;
+}
+.icon-chart_pie_error
+  {    background: url('img/chart_pie_error.png') no-repeat scroll center center transparent;
+}
+.icon-chart_pie_link
+  {    background: url('img/chart_pie_link.png') no-repeat scroll center center transparent;
+}
+.icon-clock
+  {    background: url('img/clock.png') no-repeat scroll center center transparent;
+}
+.icon-clock_add
+  {    background: url('img/clock_add.png') no-repeat scroll center center transparent;
+}
+.icon-clock_delete
+  {    background: url('img/clock_delete.png') no-repeat scroll center center transparent;
+}
+.icon-clock_edit
+  {    background: url('img/clock_edit.png') no-repeat scroll center center transparent;
+}
+.icon-clock_error
+  {    background: url('img/clock_error.png') no-repeat scroll center center transparent;
+}
+.icon-clock_go
+  {    background: url('img/clock_go.png') no-repeat scroll center center transparent;
+}
+.icon-clock_link
+  {    background: url('img/clock_link.png') no-repeat scroll center center transparent;
+}
+.icon-clock_pause
+  {    background: url('img/clock_pause.png') no-repeat scroll center center transparent;
+}
+.icon-clock_play
+  {    background: url('img/clock_play.png') no-repeat scroll center center transparent;
+}
+.icon-clock_red
+  {    background: url('img/clock_red.png') no-repeat scroll center center transparent;
+}
+.icon-clock_stop
+  {    background: url('img/clock_stop.png') no-repeat scroll center center transparent;
+}
+.icon-cog
+  {    background: url('img/cog.png') no-repeat scroll center center transparent;
+}
+.icon-cog_add
+  {    background: url('img/cog_add.png') no-repeat scroll center center transparent;
+}
+.icon-cog_delete
+  {    background: url('img/cog_delete.png') no-repeat scroll center center transparent;
+}
+.icon-cog_edit
+  {    background: url('img/cog_edit.png') no-repeat scroll center center transparent;
+}
+.icon-cog_error
+  {    background: url('img/cog_error.png') no-repeat scroll center center transparent;
+}
+.icon-cog_go
+  {    background: url('img/cog_go.png') no-repeat scroll center center transparent;
+}
+.icon-coins
+  {    background: url('img/coins.png') no-repeat scroll center center transparent;
+}
+.icon-coins_add
+  {    background: url('img/coins_add.png') no-repeat scroll center center transparent;
+}
+.icon-coins_delete
+  {    background: url('img/coins_delete.png') no-repeat scroll center center transparent;
+}
+.icon-color_swatch
+  {    background: url('img/color_swatch.png') no-repeat scroll center center transparent;
+}
+.icon-color_wheel
+  {    background: url('img/color_wheel.png') no-repeat scroll center center transparent;
+}
+.icon-comment
+  {    background: url('img/comment.png') no-repeat scroll center center transparent;
+}
+.icon-comments
+  {    background: url('img/comments.png') no-repeat scroll center center transparent;
+}
+.icon-comments_add
+  {    background: url('img/comments_add.png') no-repeat scroll center center transparent;
+}
+.icon-comments_delete
+  {    background: url('img/comments_delete.png') no-repeat scroll center center transparent;
+}
+.icon-comment_add
+  {    background: url('img/comment_add.png') no-repeat scroll center center transparent;
+}
+.icon-comment_delete
+  {    background: url('img/comment_delete.png') no-repeat scroll center center transparent;
+}
+.icon-comment_edit
+  {    background: url('img/comment_edit.png') no-repeat scroll center center transparent;
+}
+.icon-compress
+  {    background: url('img/compress.png') no-repeat scroll center center transparent;
+}
+.icon-computer
+  {    background: url('img/computer.png') no-repeat scroll center center transparent;
+}
+.icon-computer_add
+  {    background: url('img/computer_add.png') no-repeat scroll center center transparent;
+}
+.icon-computer_delete
+  {    background: url('img/computer_delete.png') no-repeat scroll center center transparent;
+}
+.icon-computer_edit
+  {    background: url('img/computer_edit.png') no-repeat scroll center center transparent;
+}
+.icon-computer_error
+  {    background: url('img/computer_error.png') no-repeat scroll center center transparent;
+}
+.icon-computer_go
+  {    background: url('img/computer_go.png') no-repeat scroll center center transparent;
+}
+.icon-computer_key
+  {    background: url('img/computer_key.png') no-repeat scroll center center transparent;
+}
+.icon-computer_link
+  {    background: url('img/computer_link.png') no-repeat scroll center center transparent;
+}
+.icon-connect
+  {    background: url('img/connect.png') no-repeat scroll center center transparent;
+}
+.icon-contrast
+  {    background: url('img/contrast.png') no-repeat scroll center center transparent;
+}
+.icon-contrast_decrease
+  {    background: url('img/contrast_decrease.png') no-repeat scroll center center transparent;
+}
+.icon-contrast_high
+  {    background: url('img/contrast_high.png') no-repeat scroll center center transparent;
+}
+.icon-contrast_increase
+  {    background: url('img/contrast_increase.png') no-repeat scroll center center transparent;
+}
+.icon-contrast_low
+  {    background: url('img/contrast_low.png') no-repeat scroll center center transparent;
+}
+.icon-controller
+  {    background: url('img/controller.png') no-repeat scroll center center transparent;
+}
+.icon-controller_add
+  {    background: url('img/controller_add.png') no-repeat scroll center center transparent;
+}
+.icon-controller_delete
+  {    background: url('img/controller_delete.png') no-repeat scroll center center transparent;
+}
+.icon-controller_error
+  {    background: url('img/controller_error.png') no-repeat scroll center center transparent;
+}
+.icon-control_eject
+  {    background: url('img/control_eject.png') no-repeat scroll center center transparent;
+}
+.icon-control_eject_blue
+  {    background: url('img/control_eject_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_end
+  {    background: url('img/control_end.png') no-repeat scroll center center transparent;
+}
+.icon-control_end_blue
+  {    background: url('img/control_end_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_equalizer
+  {    background: url('img/control_equalizer.png') no-repeat scroll center center transparent;
+}
+.icon-control_equalizer_blue
+  {    background: url('img/control_equalizer_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_fastforward
+  {    background: url('img/control_fastforward.png') no-repeat scroll center center transparent;
+}
+.icon-control_fastforward_blue
+  {    background: url('img/control_fastforward_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_pause
+  {    background: url('img/control_pause.png') no-repeat scroll center center transparent;
+}
+.icon-control_pause_blue
+  {    background: url('img/control_pause_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_play
+  {    background: url('img/control_play.png') no-repeat scroll center center transparent;
+}
+.icon-control_play_blue
+  {    background: url('img/control_play_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_repeat
+  {    background: url('img/control_repeat.png') no-repeat scroll center center transparent;
+}
+.icon-control_repeat_blue
+  {    background: url('img/control_repeat_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_rewind
+  {    background: url('img/control_rewind.png') no-repeat scroll center center transparent;
+}
+.icon-control_rewind_blue
+  {    background: url('img/control_rewind_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_start
+  {    background: url('img/control_start.png') no-repeat scroll center center transparent;
+}
+.icon-control_start_blue
+  {    background: url('img/control_start_blue.png') no-repeat scroll center center transparent;
+}
+.icon-control_stop
+  {    background: url('img/control_stop.png') no-repeat scroll center center transparent;
+}
+.icon-control_stop_blue
+  {    background: url('img/control_stop_blue.png') no-repeat scroll center center transparent;
+}
+.icon-creditcards
+  {    background: url('img/creditcards.png') no-repeat scroll center center transparent;
+}
+.icon-cross
+  {    background: url('img/cross.png') no-repeat scroll center center transparent;
+}
+.icon-css
+  {    background: url('img/css.png') no-repeat scroll center center transparent;
+}
+.icon-css_add
+  {    background: url('img/css_add.png') no-repeat scroll center center transparent;
+}
+.icon-css_delete
+  {    background: url('img/css_delete.png') no-repeat scroll center center transparent;
+}
+.icon-css_go
+  {    background: url('img/css_go.png') no-repeat scroll center center transparent;
+}
+.icon-css_valid
+  {    background: url('img/css_valid.png') no-repeat scroll center center transparent;
+}
+.icon-cup
+  {    background: url('img/cup.png') no-repeat scroll center center transparent;
+}
+.icon-cup_add
+  {    background: url('img/cup_add.png') no-repeat scroll center center transparent;
+}
+.icon-cup_delete
+  {    background: url('img/cup_delete.png') no-repeat scroll center center transparent;
+}
+.icon-cup_edit
+  {    background: url('img/cup_edit.png') no-repeat scroll center center transparent;
+}
+.icon-cup_error
+  {    background: url('img/cup_error.png') no-repeat scroll center center transparent;
+}
+.icon-cup_go
+  {    background: url('img/cup_go.png') no-repeat scroll center center transparent;
+}
+.icon-cup_key
+  {    background: url('img/cup_key.png') no-repeat scroll center center transparent;
+}
+.icon-cup_link
+  {    background: url('img/cup_link.png') no-repeat scroll center center transparent;
+}
+.icon-cursor
+  {    background: url('img/cursor.png') no-repeat scroll center center transparent;
+}
+.icon-cut
+  {    background: url('img/cut.png') no-repeat scroll center center transparent;
+}
+.icon-cut_red
+  {    background: url('img/cut_red.png') no-repeat scroll center center transparent;
+}
+.icon-database
+  {    background: url('img/database.png') no-repeat scroll center center transparent;
+}
+.icon-database_add
+  {    background: url('img/database_add.png') no-repeat scroll center center transparent;
+}
+.icon-database_connect
+  {    background: url('img/database_connect.png') no-repeat scroll center center transparent;
+}
+.icon-database_delete
+  {    background: url('img/database_delete.png') no-repeat scroll center center transparent;
+}
+.icon-database_edit
+  {    background: url('img/database_edit.png') no-repeat scroll center center transparent;
+}
+.icon-database_error
+  {    background: url('img/database_error.png') no-repeat scroll center center transparent;
+}
+.icon-database_gear
+  {    background: url('img/database_gear.png') no-repeat scroll center center transparent;
+}
+.icon-database_go
+  {    background: url('img/database_go.png') no-repeat scroll center center transparent;
+}
+.icon-database_key
+  {    background: url('img/database_key.png') no-repeat scroll center center transparent;
+}
+.icon-database_lightning
+  {    background: url('img/database_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-database_link
+  {    background: url('img/database_link.png') no-repeat scroll center center transparent;
+}
+.icon-database_refresh
+  {    background: url('img/database_refresh.png') no-repeat scroll center center transparent;
+}
+.icon-database_save
+  {    background: url('img/database_save.png') no-repeat scroll center center transparent;
+}
+.icon-database_table
+  {    background: url('img/database_table.png') no-repeat scroll center center transparent;
+}
+.icon-date
+  {    background: url('img/date.png') no-repeat scroll center center transparent;
+}
+.icon-date_add
+  {    background: url('img/date_add.png') no-repeat scroll center center transparent;
+}
+.icon-date_delete
+  {    background: url('img/date_delete.png') no-repeat scroll center center transparent;
+}
+.icon-date_edit
+  {    background: url('img/date_edit.png') no-repeat scroll center center transparent;
+}
+.icon-date_error
+  {    background: url('img/date_error.png') no-repeat scroll center center transparent;
+}
+.icon-date_go
+  {    background: url('img/date_go.png') no-repeat scroll center center transparent;
+}
+.icon-date_link
+  {    background: url('img/date_link.png') no-repeat scroll center center transparent;
+}
+.icon-date_magnify
+  {    background: url('img/date_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-date_next
+  {    background: url('img/date_next.png') no-repeat scroll center center transparent;
+}
+.icon-date_previous
+  {    background: url('img/date_previous.png') no-repeat scroll center center transparent;
+}
+.icon-delete
+  {    background: url('img/delete.png') no-repeat scroll center center transparent;
+}
+.icon-disconnect
+  {    background: url('img/disconnect.png') no-repeat scroll center center transparent;
+}
+.icon-disk
+  {    background: url('img/disk.png') no-repeat scroll center center transparent;
+}
+.icon-disk_multiple
+  {    background: url('img/disk_multiple.png') no-repeat scroll center center transparent;
+}
+.icon-door
+  {    background: url('img/door.png') no-repeat scroll center center transparent;
+}
+.icon-door_in
+  {    background: url('img/door_in.png') no-repeat scroll center center transparent;
+}
+.icon-door_open
+  {    background: url('img/door_open.png') no-repeat scroll center center transparent;
+}
+.icon-door_out
+  {    background: url('img/door_out.png') no-repeat scroll center center transparent;
+}
+.icon-drink
+  {    background: url('img/drink.png') no-repeat scroll center center transparent;
+}
+.icon-drink_empty
+  {    background: url('img/drink_empty.png') no-repeat scroll center center transparent;
+}
+.icon-drive
+  {    background: url('img/drive.png') no-repeat scroll center center transparent;
+}
+.icon-drive_add
+  {    background: url('img/drive_add.png') no-repeat scroll center center transparent;
+}
+.icon-drive_burn
+  {    background: url('img/drive_burn.png') no-repeat scroll center center transparent;
+}
+.icon-drive_cd
+  {    background: url('img/drive_cd.png') no-repeat scroll center center transparent;
+}
+.icon-drive_cd_empty
+  {    background: url('img/drive_cd_empty.png') no-repeat scroll center center transparent;
+}
+.icon-drive_delete
+  {    background: url('img/drive_delete.png') no-repeat scroll center center transparent;
+}
+.icon-drive_disk
+  {    background: url('img/drive_disk.png') no-repeat scroll center center transparent;
+}
+.icon-drive_edit
+  {    background: url('img/drive_edit.png') no-repeat scroll center center transparent;
+}
+.icon-drive_error
+  {    background: url('img/drive_error.png') no-repeat scroll center center transparent;
+}
+.icon-drive_go
+  {    background: url('img/drive_go.png') no-repeat scroll center center transparent;
+}
+.icon-drive_key
+  {    background: url('img/drive_key.png') no-repeat scroll center center transparent;
+}
+.icon-drive_link
+  {    background: url('img/drive_link.png') no-repeat scroll center center transparent;
+}
+.icon-drive_magnify
+  {    background: url('img/drive_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-drive_network
+  {    background: url('img/drive_network.png') no-repeat scroll center center transparent;
+}
+.icon-drive_rename
+  {    background: url('img/drive_rename.png') no-repeat scroll center center transparent;
+}
+.icon-drive_user
+  {    background: url('img/drive_user.png') no-repeat scroll center center transparent;
+}
+.icon-drive_web
+  {    background: url('img/drive_web.png') no-repeat scroll center center transparent;
+}
+.icon-dvd
+  {    background: url('img/dvd.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_add
+  {    background: url('img/dvd_add.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_delete
+  {    background: url('img/dvd_delete.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_edit
+  {    background: url('img/dvd_edit.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_error
+  {    background: url('img/dvd_error.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_go
+  {    background: url('img/dvd_go.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_key
+  {    background: url('img/dvd_key.png') no-repeat scroll center center transparent;
+}
+.icon-dvd_link
+  {    background: url('img/dvd_link.png') no-repeat scroll center center transparent;
+}
+.icon-email
+  {    background: url('img/email.png') no-repeat scroll center center transparent;
+}
+.icon-email_add
+  {    background: url('img/email_add.png') no-repeat scroll center center transparent;
+}
+.icon-email_attach
+  {    background: url('img/email_attach.png') no-repeat scroll center center transparent;
+}
+.icon-email_delete
+  {    background: url('img/email_delete.png') no-repeat scroll center center transparent;
+}
+.icon-email_edit
+  {    background: url('img/email_edit.png') no-repeat scroll center center transparent;
+}
+.icon-email_error
+  {    background: url('img/email_error.png') no-repeat scroll center center transparent;
+}
+.icon-email_go
+  {    background: url('img/email_go.png') no-repeat scroll center center transparent;
+}
+.icon-email_link
+  {    background: url('img/email_link.png') no-repeat scroll center center transparent;
+}
+.icon-email_open
+  {    background: url('img/email_open.png') no-repeat scroll center center transparent;
+}
+.icon-email_open_image
+  {    background: url('img/email_open_image.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_evilgrin
+  {    background: url('img/emoticon_evilgrin.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_grin
+  {    background: url('img/emoticon_grin.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_happy
+  {    background: url('img/emoticon_happy.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_smile
+  {    background: url('img/emoticon_smile.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_surprised
+  {    background: url('img/emoticon_surprised.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_tongue
+  {    background: url('img/emoticon_tongue.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_unhappy
+  {    background: url('img/emoticon_unhappy.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_waii
+  {    background: url('img/emoticon_waii.png') no-repeat scroll center center transparent;
+}
+.icon-emoticon_wink
+  {    background: url('img/emoticon_wink.png') no-repeat scroll center center transparent;
+}
+.icon-error
+  {    background: url('img/error.png') no-repeat scroll center center transparent;
+}
+.icon-error_add
+  {    background: url('img/error_add.png') no-repeat scroll center center transparent;
+}
+.icon-error_delete
+  {    background: url('img/error_delete.png') no-repeat scroll center center transparent;
+}
+.icon-error_go
+  {    background: url('img/error_go.png') no-repeat scroll center center transparent;
+}
+.icon-exclamation
+  {    background: url('img/exclamation.png') no-repeat scroll center center transparent;
+}
+.icon-eye
+  {    background: url('img/eye.png') no-repeat scroll center center transparent;
+}
+.icon-feed
+  {    background: url('img/feed.png') no-repeat scroll center center transparent;
+}
+.icon-feed_add
+  {    background: url('img/feed_add.png') no-repeat scroll center center transparent;
+}
+.icon-feed_delete
+  {    background: url('img/feed_delete.png') no-repeat scroll center center transparent;
+}
+.icon-feed_disk
+  {    background: url('img/feed_disk.png') no-repeat scroll center center transparent;
+}
+.icon-feed_edit
+  {    background: url('img/feed_edit.png') no-repeat scroll center center transparent;
+}
+.icon-feed_error
+  {    background: url('img/feed_error.png') no-repeat scroll center center transparent;
+}
+.icon-feed_go
+  {    background: url('img/feed_go.png') no-repeat scroll center center transparent;
+}
+.icon-feed_key
+  {    background: url('img/feed_key.png') no-repeat scroll center center transparent;
+}
+.icon-feed_link
+  {    background: url('img/feed_link.png') no-repeat scroll center center transparent;
+}
+.icon-feed_magnify
+  {    background: url('img/feed_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-female
+  {    background: url('img/female.png') no-repeat scroll center center transparent;
+}
+.icon-film
+  {    background: url('img/film.png') no-repeat scroll center center transparent;
+}
+.icon-film_add
+  {    background: url('img/film_add.png') no-repeat scroll center center transparent;
+}
+.icon-film_delete
+  {    background: url('img/film_delete.png') no-repeat scroll center center transparent;
+}
+.icon-film_edit
+  {    background: url('img/film_edit.png') no-repeat scroll center center transparent;
+}
+.icon-film_error
+  {    background: url('img/film_error.png') no-repeat scroll center center transparent;
+}
+.icon-film_go
+  {    background: url('img/film_go.png') no-repeat scroll center center transparent;
+}
+.icon-film_key
+  {    background: url('img/film_key.png') no-repeat scroll center center transparent;
+}
+.icon-film_link
+  {    background: url('img/film_link.png') no-repeat scroll center center transparent;
+}
+.icon-film_save
+  {    background: url('img/film_save.png') no-repeat scroll center center transparent;
+}
+.icon-find
+  {    background: url('img/find.png') no-repeat scroll center center transparent;
+}
+.icon-flag_blue
+  {    background: url('img/flag_blue.png') no-repeat scroll center center transparent;
+}
+.icon-flag_green
+  {    background: url('img/flag_green.png') no-repeat scroll center center transparent;
+}
+.icon-flag_orange
+  {    background: url('img/flag_orange.png') no-repeat scroll center center transparent;
+}
+.icon-flag_pink
+  {    background: url('img/flag_pink.png') no-repeat scroll center center transparent;
+}
+.icon-flag_purple
+  {    background: url('img/flag_purple.png') no-repeat scroll center center transparent;
+}
+.icon-flag_red
+  {    background: url('img/flag_red.png') no-repeat scroll center center transparent;
+}
+.icon-flag_yellow
+  {    background: url('img/flag_yellow.png') no-repeat scroll center center transparent;
+}
+.icon-folder
+  {    background: url('img/folder.png') no-repeat scroll center center transparent;
+}
+.icon-folder_add
+  {    background: url('img/folder_add.png') no-repeat scroll center center transparent;
+}
+.icon-folder_bell
+  {    background: url('img/folder_bell.png') no-repeat scroll center center transparent;
+}
+.icon-folder_brick
+  {    background: url('img/folder_brick.png') no-repeat scroll center center transparent;
+}
+.icon-folder_bug
+  {    background: url('img/folder_bug.png') no-repeat scroll center center transparent;
+}
+.icon-folder_camera
+  {    background: url('img/folder_camera.png') no-repeat scroll center center transparent;
+}
+.icon-folder_database
+  {    background: url('img/folder_database.png') no-repeat scroll center center transparent;
+}
+.icon-folder_delete
+  {    background: url('img/folder_delete.png') no-repeat scroll center center transparent;
+}
+.icon-folder_edit
+  {    background: url('img/folder_edit.png') no-repeat scroll center center transparent;
+}
+.icon-folder_error
+  {    background: url('img/folder_error.png') no-repeat scroll center center transparent;
+}
+.icon-folder_explore
+  {    background: url('img/folder_explore.png') no-repeat scroll center center transparent;
+}
+.icon-folder_feed
+  {    background: url('img/folder_feed.png') no-repeat scroll center center transparent;
+}
+.icon-folder_find
+  {    background: url('img/folder_find.png') no-repeat scroll center center transparent;
+}
+.icon-folder_go
+  {    background: url('img/folder_go.png') no-repeat scroll center center transparent;
+}
+.icon-folder_heart
+  {    background: url('img/folder_heart.png') no-repeat scroll center center transparent;
+}
+.icon-folder_image
+  {    background: url('img/folder_image.png') no-repeat scroll center center transparent;
+}
+.icon-folder_key
+  {    background: url('img/folder_key.png') no-repeat scroll center center transparent;
+}
+.icon-folder_lightbulb
+  {    background: url('img/folder_lightbulb.png') no-repeat scroll center center transparent;
+}
+.icon-folder_link
+  {    background: url('img/folder_link.png') no-repeat scroll center center transparent;
+}
+.icon-folder_magnify
+  {    background: url('img/folder_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-folder_page
+  {    background: url('img/folder_page.png') no-repeat scroll center center transparent;
+}
+.icon-folder_page_white
+  {    background: url('img/folder_page_white.png') no-repeat scroll center center transparent;
+}
+.icon-folder_palette
+  {    background: url('img/folder_palette.png') no-repeat scroll center center transparent;
+}
+.icon-folder_picture
+  {    background: url('img/folder_picture.png') no-repeat scroll center center transparent;
+}
+.icon-folder_star
+  {    background: url('img/folder_star.png') no-repeat scroll center center transparent;
+}
+.icon-folder_table
+  {    background: url('img/folder_table.png') no-repeat scroll center center transparent;
+}
+.icon-folder_user
+  {    background: url('img/folder_user.png') no-repeat scroll center center transparent;
+}
+.icon-folder_wrench
+  {    background: url('img/folder_wrench.png') no-repeat scroll center center transparent;
+}
+.icon-font
+  {    background: url('img/font.png') no-repeat scroll center center transparent;
+}
+.icon-font_add
+  {    background: url('img/font_add.png') no-repeat scroll center center transparent;
+}
+.icon-font_delete
+  {    background: url('img/font_delete.png') no-repeat scroll center center transparent;
+}
+.icon-font_go
+  {    background: url('img/font_go.png') no-repeat scroll center center transparent;
+}
+.icon-group
+  {    background: url('img/group.png') no-repeat scroll center center transparent;
+}
+.icon-group_add
+  {    background: url('img/group_add.png') no-repeat scroll center center transparent;
+}
+.icon-group_delete
+  {    background: url('img/group_delete.png') no-repeat scroll center center transparent;
+}
+.icon-group_edit
+  {    background: url('img/group_edit.png') no-repeat scroll center center transparent;
+}
+.icon-group_error
+  {    background: url('img/group_error.png') no-repeat scroll center center transparent;
+}
+.icon-group_gear
+  {    background: url('img/group_gear.png') no-repeat scroll center center transparent;
+}
+.icon-group_go
+  {    background: url('img/group_go.png') no-repeat scroll center center transparent;
+}
+.icon-group_key
+  {    background: url('img/group_key.png') no-repeat scroll center center transparent;
+}
+.icon-group_link
+  {    background: url('img/group_link.png') no-repeat scroll center center transparent;
+}
+.icon-heart
+  {    background: url('img/heart.png') no-repeat scroll center center transparent;
+}
+.icon-heart_add
+  {    background: url('img/heart_add.png') no-repeat scroll center center transparent;
+}
+.icon-heart_delete
+  {    background: url('img/heart_delete.png') no-repeat scroll center center transparent;
+}
+.icon-help
+  {    background: url('img/help.png') no-repeat scroll center center transparent;
+}
+.icon-hourglass
+  {    background: url('img/hourglass.png') no-repeat scroll center center transparent;
+}
+.icon-hourglass_add
+  {    background: url('img/hourglass_add.png') no-repeat scroll center center transparent;
+}
+.icon-hourglass_delete
+  {    background: url('img/hourglass_delete.png') no-repeat scroll center center transparent;
+}
+.icon-hourglass_go
+  {    background: url('img/hourglass_go.png') no-repeat scroll center center transparent;
+}
+.icon-hourglass_link
+  {    background: url('img/hourglass_link.png') no-repeat scroll center center transparent;
+}
+.icon-house
+  {    background: url('img/house.png') no-repeat scroll center center transparent;
+}
+.icon-house_go
+  {    background: url('img/house_go.png') no-repeat scroll center center transparent;
+}
+.icon-house_link
+  {    background: url('img/house_link.png') no-repeat scroll center center transparent;
+}
+.icon-html
+  {    background: url('img/html.png') no-repeat scroll center center transparent;
+}
+.icon-html_add
+  {    background: url('img/html_add.png') no-repeat scroll center center transparent;
+}
+.icon-html_delete
+  {    background: url('img/html_delete.png') no-repeat scroll center center transparent;
+}
+.icon-html_go
+  {    background: url('img/html_go.png') no-repeat scroll center center transparent;
+}
+.icon-html_valid
+  {    background: url('img/html_valid.png') no-repeat scroll center center transparent;
+}
+.icon-image
+  {    background: url('img/image.png') no-repeat scroll center center transparent;
+}
+.icon-images
+  {    background: url('img/images.png') no-repeat scroll center center transparent;
+}
+.icon-image_add
+  {    background: url('img/image_add.png') no-repeat scroll center center transparent;
+}
+.icon-image_delete
+  {    background: url('img/image_delete.png') no-repeat scroll center center transparent;
+}
+.icon-image_edit
+  {    background: url('img/image_edit.png') no-repeat scroll center center transparent;
+}
+.icon-image_link
+  {    background: url('img/image_link.png') no-repeat scroll center center transparent;
+}
+.icon-information
+  {    background: url('img/information.png') no-repeat scroll center center transparent;
+}
+.icon-ipod
+  {    background: url('img/ipod.png') no-repeat scroll center center transparent;
+}
+.icon-ipod_cast
+  {    background: url('img/ipod_cast.png') no-repeat scroll center center transparent;
+}
+.icon-ipod_cast_add
+  {    background: url('img/ipod_cast_add.png') no-repeat scroll center center transparent;
+}
+.icon-ipod_cast_delete
+  {    background: url('img/ipod_cast_delete.png') no-repeat scroll center center transparent;
+}
+.icon-ipod_sound
+  {    background: url('img/ipod_sound.png') no-repeat scroll center center transparent;
+}
+.icon-joystick
+  {    background: url('img/joystick.png') no-repeat scroll center center transparent;
+}
+.icon-joystick_add
+  {    background: url('img/joystick_add.png') no-repeat scroll center center transparent;
+}
+.icon-joystick_delete
+  {    background: url('img/joystick_delete.png') no-repeat scroll center center transparent;
+}
+.icon-joystick_error
+  {    background: url('img/joystick_error.png') no-repeat scroll center center transparent;
+}
+.icon-key
+  {    background: url('img/key.png') no-repeat scroll center center transparent;
+}
+.icon-keyboard
+  {    background: url('img/keyboard.png') no-repeat scroll center center transparent;
+}
+.icon-keyboard_add
+  {    background: url('img/keyboard_add.png') no-repeat scroll center center transparent;
+}
+.icon-keyboard_delete
+  {    background: url('img/keyboard_delete.png') no-repeat scroll center center transparent;
+}
+.icon-keyboard_magnify
+  {    background: url('img/keyboard_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-key_add
+  {    background: url('img/key_add.png') no-repeat scroll center center transparent;
+}
+.icon-key_delete
+  {    background: url('img/key_delete.png') no-repeat scroll center center transparent;
+}
+.icon-key_go
+  {    background: url('img/key_go.png') no-repeat scroll center center transparent;
+}
+.icon-layers
+  {    background: url('img/layers.png') no-repeat scroll center center transparent;
+}
+.icon-layout
+  {    background: url('img/layout.png') no-repeat scroll center center transparent;
+}
+.icon-layout_add
+  {    background: url('img/layout_add.png') no-repeat scroll center center transparent;
+}
+.icon-layout_content
+  {    background: url('img/layout_content.png') no-repeat scroll center center transparent;
+}
+.icon-layout_delete
+  {    background: url('img/layout_delete.png') no-repeat scroll center center transparent;
+}
+.icon-layout_edit
+  {    background: url('img/layout_edit.png') no-repeat scroll center center transparent;
+}
+.icon-layout_error
+  {    background: url('img/layout_error.png') no-repeat scroll center center transparent;
+}
+.icon-layout_header
+  {    background: url('img/layout_header.png') no-repeat scroll center center transparent;
+}
+.icon-layout_link
+  {    background: url('img/layout_link.png') no-repeat scroll center center transparent;
+}
+.icon-layout_sidebar
+  {    background: url('img/layout_sidebar.png') no-repeat scroll center center transparent;
+}
+.icon-lightbulb
+  {    background: url('img/lightbulb.png') no-repeat scroll center center transparent;
+}
+.icon-lightbulb_add
+  {    background: url('img/lightbulb_add.png') no-repeat scroll center center transparent;
+}
+.icon-lightbulb_delete
+  {    background: url('img/lightbulb_delete.png') no-repeat scroll center center transparent;
+}
+.icon-lightbulb_off
+  {    background: url('img/lightbulb_off.png') no-repeat scroll center center transparent;
+}
+.icon-lightning
+  {    background: url('img/lightning.png') no-repeat scroll center center transparent;
+}
+.icon-lightning_add
+  {    background: url('img/lightning_add.png') no-repeat scroll center center transparent;
+}
+.icon-lightning_delete
+  {    background: url('img/lightning_delete.png') no-repeat scroll center center transparent;
+}
+.icon-lightning_go
+  {    background: url('img/lightning_go.png') no-repeat scroll center center transparent;
+}
+.icon-link
+  {    background: url('img/link.png') no-repeat scroll center center transparent;
+}
+.icon-link_add
+  {    background: url('img/link_add.png') no-repeat scroll center center transparent;
+}
+.icon-link_break
+  {    background: url('img/link_break.png') no-repeat scroll center center transparent;
+}
+.icon-link_delete
+  {    background: url('img/link_delete.png') no-repeat scroll center center transparent;
+}
+.icon-link_edit
+  {    background: url('img/link_edit.png') no-repeat scroll center center transparent;
+}
+.icon-link_error
+  {    background: url('img/link_error.png') no-repeat scroll center center transparent;
+}
+.icon-link_go
+  {    background: url('img/link_go.png') no-repeat scroll center center transparent;
+}
+.icon-lock
+  {    background: url('img/lock.png') no-repeat scroll center center transparent;
+}
+.icon-lock_add
+  {    background: url('img/lock_add.png') no-repeat scroll center center transparent;
+}
+.icon-lock_break
+  {    background: url('img/lock_break.png') no-repeat scroll center center transparent;
+}
+.icon-lock_delete
+  {    background: url('img/lock_delete.png') no-repeat scroll center center transparent;
+}
+.icon-lock_edit
+  {    background: url('img/lock_edit.png') no-repeat scroll center center transparent;
+}
+.icon-lock_go
+  {    background: url('img/lock_go.png') no-repeat scroll center center transparent;
+}
+.icon-lock_open
+  {    background: url('img/lock_open.png') no-repeat scroll center center transparent;
+}
+.icon-lorry
+  {    background: url('img/lorry.png') no-repeat scroll center center transparent;
+}
+.icon-lorry_add
+  {    background: url('img/lorry_add.png') no-repeat scroll center center transparent;
+}
+.icon-lorry_delete
+  {    background: url('img/lorry_delete.png') no-repeat scroll center center transparent;
+}
+.icon-lorry_error
+  {    background: url('img/lorry_error.png') no-repeat scroll center center transparent;
+}
+.icon-lorry_flatbed
+  {    background: url('img/lorry_flatbed.png') no-repeat scroll center center transparent;
+}
+.icon-lorry_go
+  {    background: url('img/lorry_go.png') no-repeat scroll center center transparent;
+}
+.icon-lorry_link
+  {    background: url('img/lorry_link.png') no-repeat scroll center center transparent;
+}
+.icon-magifier_zoom_out
+  {    background: url('img/magifier_zoom_out.png') no-repeat scroll center center transparent;
+}
+.icon-magnifier
+  {    background: url('img/magnifier.png') no-repeat scroll center center transparent;
+}
+.icon-magnifier_zoom_in
+  {    background: url('img/magnifier_zoom_in.png') no-repeat scroll center center transparent;
+}
+.icon-male
+  {    background: url('img/male.png') no-repeat scroll center center transparent;
+}
+.icon-map
+  {    background: url('img/map.png') no-repeat scroll center center transparent;
+}
+.icon-map_add
+  {    background: url('img/map_add.png') no-repeat scroll center center transparent;
+}
+.icon-map_delete
+  {    background: url('img/map_delete.png') no-repeat scroll center center transparent;
+}
+.icon-map_edit
+  {    background: url('img/map_edit.png') no-repeat scroll center center transparent;
+}
+.icon-map_go
+  {    background: url('img/map_go.png') no-repeat scroll center center transparent;
+}
+.icon-map_magnify
+  {    background: url('img/map_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-medal_bronze_1
+  {    background: url('img/medal_bronze_1.png') no-repeat scroll center center transparent;
+}
+.icon-medal_bronze_2
+  {    background: url('img/medal_bronze_2.png') no-repeat scroll center center transparent;
+}
+.icon-medal_bronze_3
+  {    background: url('img/medal_bronze_3.png') no-repeat scroll center center transparent;
+}
+.icon-medal_bronze_add
+  {    background: url('img/medal_bronze_add.png') no-repeat scroll center center transparent;
+}
+.icon-medal_bronze_delete
+  {    background: url('img/medal_bronze_delete.png') no-repeat scroll center center transparent;
+}
+.icon-medal_gold_1
+  {    background: url('img/medal_gold_1.png') no-repeat scroll center center transparent;
+}
+.icon-medal_gold_2
+  {    background: url('img/medal_gold_2.png') no-repeat scroll center center transparent;
+}
+.icon-medal_gold_3
+  {    background: url('img/medal_gold_3.png') no-repeat scroll center center transparent;
+}
+.icon-medal_gold_add
+  {    background: url('img/medal_gold_add.png') no-repeat scroll center center transparent;
+}
+.icon-medal_gold_delete
+  {    background: url('img/medal_gold_delete.png') no-repeat scroll center center transparent;
+}
+.icon-medal_silver_1
+  {    background: url('img/medal_silver_1.png') no-repeat scroll center center transparent;
+}
+.icon-medal_silver_2
+  {    background: url('img/medal_silver_2.png') no-repeat scroll center center transparent;
+}
+.icon-medal_silver_3
+  {    background: url('img/medal_silver_3.png') no-repeat scroll center center transparent;
+}
+.icon-medal_silver_add
+  {    background: url('img/medal_silver_add.png') no-repeat scroll center center transparent;
+}
+.icon-medal_silver_delete
+  {    background: url('img/medal_silver_delete.png') no-repeat scroll center center transparent;
+}
+.icon-money
+  {    background: url('img/money.png') no-repeat scroll center center transparent;
+}
+.icon-money_add
+  {    background: url('img/money_add.png') no-repeat scroll center center transparent;
+}
+.icon-money_delete
+  {    background: url('img/money_delete.png') no-repeat scroll center center transparent;
+}
+.icon-money_dollar
+  {    background: url('img/money_dollar.png') no-repeat scroll center center transparent;
+}
+.icon-money_euro
+  {    background: url('img/money_euro.png') no-repeat scroll center center transparent;
+}
+.icon-money_pound
+  {    background: url('img/money_pound.png') no-repeat scroll center center transparent;
+}
+.icon-money_yen
+  {    background: url('img/money_yen.png') no-repeat scroll center center transparent;
+}
+.icon-monitor
+  {    background: url('img/monitor.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_add
+  {    background: url('img/monitor_add.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_delete
+  {    background: url('img/monitor_delete.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_edit
+  {    background: url('img/monitor_edit.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_error
+  {    background: url('img/monitor_error.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_go
+  {    background: url('img/monitor_go.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_lightning
+  {    background: url('img/monitor_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-monitor_link
+  {    background: url('img/monitor_link.png') no-repeat scroll center center transparent;
+}
+.icon-mouse
+  {    background: url('img/mouse.png') no-repeat scroll center center transparent;
+}
+.icon-mouse_add
+  {    background: url('img/mouse_add.png') no-repeat scroll center center transparent;
+}
+.icon-mouse_delete
+  {    background: url('img/mouse_delete.png') no-repeat scroll center center transparent;
+}
+.icon-mouse_error
+  {    background: url('img/mouse_error.png') no-repeat scroll center center transparent;
+}
+.icon-music
+  {    background: url('img/music.png') no-repeat scroll center center transparent;
+}
+.icon-new
+  {    background: url('img/new.png') no-repeat scroll center center transparent;
+}
+.icon-newspaper
+  {    background: url('img/newspaper.png') no-repeat scroll center center transparent;
+}
+.icon-newspaper_add
+  {    background: url('img/newspaper_add.png') no-repeat scroll center center transparent;
+}
+.icon-newspaper_delete
+  {    background: url('img/newspaper_delete.png') no-repeat scroll center center transparent;
+}
+.icon-newspaper_go
+  {    background: url('img/newspaper_go.png') no-repeat scroll center center transparent;
+}
+.icon-newspaper_link
+  {    background: url('img/newspaper_link.png') no-repeat scroll center center transparent;
+}
+.icon-note
+  {    background: url('img/note.png') no-repeat scroll center center transparent;
+}
+.icon-note_add
+  {    background: url('img/note_add.png') no-repeat scroll center center transparent;
+}
+.icon-note_delete
+  {    background: url('img/note_delete.png') no-repeat scroll center center transparent;
+}
+.icon-note_edit
+  {    background: url('img/note_edit.png') no-repeat scroll center center transparent;
+}
+.icon-note_error
+  {    background: url('img/note_error.png') no-repeat scroll center center transparent;
+}
+.icon-note_go
+  {    background: url('img/note_go.png') no-repeat scroll center center transparent;
+}
+.icon-overlays
+  {    background: url('img/overlays.png') no-repeat scroll center center transparent;
+}
+.icon-package
+  {    background: url('img/package.png') no-repeat scroll center center transparent;
+}
+.icon-package_add
+  {    background: url('img/package_add.png') no-repeat scroll center center transparent;
+}
+.icon-package_delete
+  {    background: url('img/package_delete.png') no-repeat scroll center center transparent;
+}
+.icon-package_go
+  {    background: url('img/package_go.png') no-repeat scroll center center transparent;
+}
+.icon-package_green
+  {    background: url('img/package_green.png') no-repeat scroll center center transparent;
+}
+.icon-package_link
+  {    background: url('img/package_link.png') no-repeat scroll center center transparent;
+}
+.icon-page
+  {    background: url('img/page.png') no-repeat scroll center center transparent;
+}
+.icon-page_add
+  {    background: url('img/page_add.png') no-repeat scroll center center transparent;
+}
+.icon-page_attach
+  {    background: url('img/page_attach.png') no-repeat scroll center center transparent;
+}
+.icon-page_code
+  {    background: url('img/page_code.png') no-repeat scroll center center transparent;
+}
+.icon-page_copy
+  {    background: url('img/page_copy.png') no-repeat scroll center center transparent;
+}
+.icon-page_delete
+  {    background: url('img/page_delete.png') no-repeat scroll center center transparent;
+}
+.icon-page_edit
+  {    background: url('img/page_edit.png') no-repeat scroll center center transparent;
+}
+.icon-page_error
+  {    background: url('img/page_error.png') no-repeat scroll center center transparent;
+}
+.icon-page_excel
+  {    background: url('img/page_excel.png') no-repeat scroll center center transparent;
+}
+.icon-page_find
+  {    background: url('img/page_find.png') no-repeat scroll center center transparent;
+}
+.icon-page_gear
+  {    background: url('img/page_gear.png') no-repeat scroll center center transparent;
+}
+.icon-page_go
+  {    background: url('img/page_go.png') no-repeat scroll center center transparent;
+}
+.icon-page_green
+  {    background: url('img/page_green.png') no-repeat scroll center center transparent;
+}
+.icon-page_key
+  {    background: url('img/page_key.png') no-repeat scroll center center transparent;
+}
+.icon-page_lightning
+  {    background: url('img/page_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-page_link
+  {    background: url('img/page_link.png') no-repeat scroll center center transparent;
+}
+.icon-page_paintbrush
+  {    background: url('img/page_paintbrush.png') no-repeat scroll center center transparent;
+}
+.icon-page_paste
+  {    background: url('img/page_paste.png') no-repeat scroll center center transparent;
+}
+.icon-page_red
+  {    background: url('img/page_red.png') no-repeat scroll center center transparent;
+}
+.icon-page_refresh
+  {    background: url('img/page_refresh.png') no-repeat scroll center center transparent;
+}
+.icon-page_save
+  {    background: url('img/page_save.png') no-repeat scroll center center transparent;
+}
+.icon-page_white
+  {    background: url('img/page_white.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_acrobat
+  {    background: url('img/page_white_acrobat.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_actionscript
+  {    background: url('img/page_white_actionscript.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_add
+  {    background: url('img/page_white_add.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_c
+  {    background: url('img/page_white_c.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_camera
+  {    background: url('img/page_white_camera.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_cd
+  {    background: url('img/page_white_cd.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_code
+  {    background: url('img/page_white_code.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_code_red
+  {    background: url('img/page_white_code_red.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_coldfusion
+  {    background: url('img/page_white_coldfusion.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_compressed
+  {    background: url('img/page_white_compressed.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_copy
+  {    background: url('img/page_white_copy.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_cplusplus
+  {    background: url('img/page_white_cplusplus.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_csharp
+  {    background: url('img/page_white_csharp.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_cup
+  {    background: url('img/page_white_cup.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_database
+  {    background: url('img/page_white_database.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_delete
+  {    background: url('img/page_white_delete.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_dvd
+  {    background: url('img/page_white_dvd.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_edit
+  {    background: url('img/page_white_edit.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_error
+  {    background: url('img/page_white_error.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_excel
+  {    background: url('img/page_white_excel.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_find
+  {    background: url('img/page_white_find.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_flash
+  {    background: url('img/page_white_flash.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_freehand
+  {    background: url('img/page_white_freehand.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_gear
+  {    background: url('img/page_white_gear.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_get
+  {    background: url('img/page_white_get.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_go
+  {    background: url('img/page_white_go.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_h
+  {    background: url('img/page_white_h.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_horizontal
+  {    background: url('img/page_white_horizontal.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_key
+  {    background: url('img/page_white_key.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_lightning
+  {    background: url('img/page_white_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_link
+  {    background: url('img/page_white_link.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_magnify
+  {    background: url('img/page_white_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_medal
+  {    background: url('img/page_white_medal.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_office
+  {    background: url('img/page_white_office.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_paint
+  {    background: url('img/page_white_paint.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_paintbrush
+  {    background: url('img/page_white_paintbrush.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_paste
+  {    background: url('img/page_white_paste.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_php
+  {    background: url('img/page_white_php.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_picture
+  {    background: url('img/page_white_picture.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_powerpoint
+  {    background: url('img/page_white_powerpoint.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_put
+  {    background: url('img/page_white_put.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_ruby
+  {    background: url('img/page_white_ruby.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_stack
+  {    background: url('img/page_white_stack.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_star
+  {    background: url('img/page_white_star.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_swoosh
+  {    background: url('img/page_white_swoosh.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_text
+  {    background: url('img/page_white_text.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_text_width
+  {    background: url('img/page_white_text_width.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_tux
+  {    background: url('img/page_white_tux.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_vector
+  {    background: url('img/page_white_vector.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_visualstudio
+  {    background: url('img/page_white_visualstudio.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_width
+  {    background: url('img/page_white_width.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_word
+  {    background: url('img/page_white_word.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_world
+  {    background: url('img/page_white_world.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_wrench
+  {    background: url('img/page_white_wrench.png') no-repeat scroll center center transparent;
+}
+.icon-page_white_zip
+  {    background: url('img/page_white_zip.png') no-repeat scroll center center transparent;
+}
+.icon-page_word
+  {    background: url('img/page_word.png') no-repeat scroll center center transparent;
+}
+.icon-page_world
+  {    background: url('img/page_world.png') no-repeat scroll center center transparent;
+}
+.icon-paintbrush
+  {    background: url('img/paintbrush.png') no-repeat scroll center center transparent;
+}
+.icon-paintcan
+  {    background: url('img/paintcan.png') no-repeat scroll center center transparent;
+}
+.icon-palette
+  {    background: url('img/palette.png') no-repeat scroll center center transparent;
+}
+.icon-paste_plain
+  {    background: url('img/paste_plain.png') no-repeat scroll center center transparent;
+}
+.icon-paste_word
+  {    background: url('img/paste_word.png') no-repeat scroll center center transparent;
+}
+.icon-pencil
+  {    background: url('img/pencil.png') no-repeat scroll center center transparent;
+}
+.icon-pencil_add
+  {    background: url('img/pencil_add.png') no-repeat scroll center center transparent;
+}
+.icon-pencil_delete
+  {    background: url('img/pencil_delete.png') no-repeat scroll center center transparent;
+}
+.icon-pencil_go
+  {    background: url('img/pencil_go.png') no-repeat scroll center center transparent;
+}
+.icon-phone
+  {    background: url('img/phone.png') no-repeat scroll center center transparent;
+}
+.icon-phone_add
+  {    background: url('img/phone_add.png') no-repeat scroll center center transparent;
+}
+.icon-phone_delete
+  {    background: url('img/phone_delete.png') no-repeat scroll center center transparent;
+}
+.icon-phone_sound
+  {    background: url('img/phone_sound.png') no-repeat scroll center center transparent;
+}
+.icon-photo
+  {    background: url('img/photo.png') no-repeat scroll center center transparent;
+}
+.icon-photos
+  {    background: url('img/photos.png') no-repeat scroll center center transparent;
+}
+.icon-photo_add
+  {    background: url('img/photo_add.png') no-repeat scroll center center transparent;
+}
+.icon-photo_delete
+  {    background: url('img/photo_delete.png') no-repeat scroll center center transparent;
+}
+.icon-photo_link
+  {    background: url('img/photo_link.png') no-repeat scroll center center transparent;
+}
+.icon-picture
+  {    background: url('img/picture.png') no-repeat scroll center center transparent;
+}
+.icon-pictures
+  {    background: url('img/pictures.png') no-repeat scroll center center transparent;
+}
+.icon-picture_add
+  {    background: url('img/picture_add.png') no-repeat scroll center center transparent;
+}
+.icon-picture_delete
+  {    background: url('img/picture_delete.png') no-repeat scroll center center transparent;
+}
+.icon-picture_edit
+  {    background: url('img/picture_edit.png') no-repeat scroll center center transparent;
+}
+.icon-picture_empty
+  {    background: url('img/picture_empty.png') no-repeat scroll center center transparent;
+}
+.icon-picture_error
+  {    background: url('img/picture_error.png') no-repeat scroll center center transparent;
+}
+.icon-picture_go
+  {    background: url('img/picture_go.png') no-repeat scroll center center transparent;
+}
+.icon-picture_key
+  {    background: url('img/picture_key.png') no-repeat scroll center center transparent;
+}
+.icon-picture_link
+  {    background: url('img/picture_link.png') no-repeat scroll center center transparent;
+}
+.icon-picture_save
+  {    background: url('img/picture_save.png') no-repeat scroll center center transparent;
+}
+.icon-pilcrow
+  {    background: url('img/pilcrow.png') no-repeat scroll center center transparent;
+}
+.icon-pill
+  {    background: url('img/pill.png') no-repeat scroll center center transparent;
+}
+.icon-pill_add
+  {    background: url('img/pill_add.png') no-repeat scroll center center transparent;
+}
+.icon-pill_delete
+  {    background: url('img/pill_delete.png') no-repeat scroll center center transparent;
+}
+.icon-pill_go
+  {    background: url('img/pill_go.png') no-repeat scroll center center transparent;
+}
+.icon-plugin
+  {    background: url('img/plugin.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_add
+  {    background: url('img/plugin_add.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_delete
+  {    background: url('img/plugin_delete.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_disabled
+  {    background: url('img/plugin_disabled.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_edit
+  {    background: url('img/plugin_edit.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_error
+  {    background: url('img/plugin_error.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_go
+  {    background: url('img/plugin_go.png') no-repeat scroll center center transparent;
+}
+.icon-plugin_link
+  {    background: url('img/plugin_link.png') no-repeat scroll center center transparent;
+}
+.icon-printer
+  {    background: url('img/printer.png') no-repeat scroll center center transparent;
+}
+.icon-printer_add
+  {    background: url('img/printer_add.png') no-repeat scroll center center transparent;
+}
+.icon-printer_delete
+  {    background: url('img/printer_delete.png') no-repeat scroll center center transparent;
+}
+.icon-printer_empty
+  {    background: url('img/printer_empty.png') no-repeat scroll center center transparent;
+}
+.icon-printer_error
+  {    background: url('img/printer_error.png') no-repeat scroll center center transparent;
+}
+.icon-rainbow
+  {    background: url('img/rainbow.png') no-repeat scroll center center transparent;
+}
+.icon-report
+  {    background: url('img/report.png') no-repeat scroll center center transparent;
+}
+.icon-report_add
+  {    background: url('img/report_add.png') no-repeat scroll center center transparent;
+}
+.icon-report_delete
+  {    background: url('img/report_delete.png') no-repeat scroll center center transparent;
+}
+.icon-report_disk
+  {    background: url('img/report_disk.png') no-repeat scroll center center transparent;
+}
+.icon-report_edit
+  {    background: url('img/report_edit.png') no-repeat scroll center center transparent;
+}
+.icon-report_go
+  {    background: url('img/report_go.png') no-repeat scroll center center transparent;
+}
+.icon-report_key
+  {    background: url('img/report_key.png') no-repeat scroll center center transparent;
+}
+.icon-report_link
+  {    background: url('img/report_link.png') no-repeat scroll center center transparent;
+}
+.icon-report_magnify
+  {    background: url('img/report_magnify.png') no-repeat scroll center center transparent;
+}
+.icon-report_picture
+  {    background: url('img/report_picture.png') no-repeat scroll center center transparent;
+}
+.icon-report_user
+  {    background: url('img/report_user.png') no-repeat scroll center center transparent;
+}
+.icon-report_word
+  {    background: url('img/report_word.png') no-repeat scroll center center transparent;
+}
+.icon-resultset_first
+  {    background: url('img/resultset_first.png') no-repeat scroll center center transparent;
+}
+.icon-resultset_last
+  {    background: url('img/resultset_last.png') no-repeat scroll center center transparent;
+}
+.icon-resultset_next
+  {    background: url('img/resultset_next.png') no-repeat scroll center center transparent;
+}
+.icon-resultset_previous
+  {    background: url('img/resultset_previous.png') no-repeat scroll center center transparent;
+}
+.icon-rosette
+  {    background: url('img/rosette.png') no-repeat scroll center center transparent;
+}
+.icon-rss
+  {    background: url('img/rss.png') no-repeat scroll center center transparent;
+}
+.icon-rss_add
+  {    background: url('img/rss_add.png') no-repeat scroll center center transparent;
+}
+.icon-rss_delete
+  {    background: url('img/rss_delete.png') no-repeat scroll center center transparent;
+}
+.icon-rss_go
+  {    background: url('img/rss_go.png') no-repeat scroll center center transparent;
+}
+.icon-rss_valid
+  {    background: url('img/rss_valid.png') no-repeat scroll center center transparent;
+}
+.icon-ruby
+  {    background: url('img/ruby.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_add
+  {    background: url('img/ruby_add.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_delete
+  {    background: url('img/ruby_delete.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_gear
+  {    background: url('img/ruby_gear.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_get
+  {    background: url('img/ruby_get.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_go
+  {    background: url('img/ruby_go.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_key
+  {    background: url('img/ruby_key.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_link
+  {    background: url('img/ruby_link.png') no-repeat scroll center center transparent;
+}
+.icon-ruby_put
+  {    background: url('img/ruby_put.png') no-repeat scroll center center transparent;
+}
+.icon-script
+  {    background: url('img/script.png') no-repeat scroll center center transparent;
+}
+.icon-script_add
+  {    background: url('img/script_add.png') no-repeat scroll center center transparent;
+}
+.icon-script_code
+  {    background: url('img/script_code.png') no-repeat scroll center center transparent;
+}
+.icon-script_code_red
+  {    background: url('img/script_code_red.png') no-repeat scroll center center transparent;
+}
+.icon-script_delete
+  {    background: url('img/script_delete.png') no-repeat scroll center center transparent;
+}
+.icon-script_edit
+  {    background: url('img/script_edit.png') no-repeat scroll center center transparent;
+}
+.icon-script_error
+  {    background: url('img/script_error.png') no-repeat scroll center center transparent;
+}
+.icon-script_gear
+  {    background: url('img/script_gear.png') no-repeat scroll center center transparent;
+}
+.icon-script_go
+  {    background: url('img/script_go.png') no-repeat scroll center center transparent;
+}
+.icon-script_key
+  {    background: url('img/script_key.png') no-repeat scroll center center transparent;
+}
+.icon-script_lightning
+  {    background: url('img/script_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-script_link
+  {    background: url('img/script_link.png') no-repeat scroll center center transparent;
+}
+.icon-script_palette
+  {    background: url('img/script_palette.png') no-repeat scroll center center transparent;
+}
+.icon-script_save
+  {    background: url('img/script_save.png') no-repeat scroll center center transparent;
+}
+.icon-server
+  {    background: url('img/server.png') no-repeat scroll center center transparent;
+}
+.icon-server_add
+  {    background: url('img/server_add.png') no-repeat scroll center center transparent;
+}
+.icon-server_chart
+  {    background: url('img/server_chart.png') no-repeat scroll center center transparent;
+}
+.icon-server_compressed
+  {    background: url('img/server_compressed.png') no-repeat scroll center center transparent;
+}
+.icon-server_connect
+  {    background: url('img/server_connect.png') no-repeat scroll center center transparent;
+}
+.icon-server_database
+  {    background: url('img/server_database.png') no-repeat scroll center center transparent;
+}
+.icon-server_delete
+  {    background: url('img/server_delete.png') no-repeat scroll center center transparent;
+}
+.icon-server_edit
+  {    background: url('img/server_edit.png') no-repeat scroll center center transparent;
+}
+.icon-server_error
+  {    background: url('img/server_error.png') no-repeat scroll center center transparent;
+}
+.icon-server_go
+  {    background: url('img/server_go.png') no-repeat scroll center center transparent;
+}
+.icon-server_key
+  {    background: url('img/server_key.png') no-repeat scroll center center transparent;
+}
+.icon-server_lightning
+  {    background: url('img/server_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-server_link
+  {    background: url('img/server_link.png') no-repeat scroll center center transparent;
+}
+.icon-server_uncompressed
+  {    background: url('img/server_uncompressed.png') no-repeat scroll center center transparent;
+}
+.icon-shading
+  {    background: url('img/shading.png') no-repeat scroll center center transparent;
+}
+.icon-shape_align_bottom
+  {    background: url('img/shape_align_bottom.png') no-repeat scroll center center transparent;
+}
+.icon-shape_align_center
+  {    background: url('img/shape_align_center.png') no-repeat scroll center center transparent;
+}
+.icon-shape_align_left
+  {    background: url('img/shape_align_left.png') no-repeat scroll center center transparent;
+}
+.icon-shape_align_middle
+  {    background: url('img/shape_align_middle.png') no-repeat scroll center center transparent;
+}
+.icon-shape_align_right
+  {    background: url('img/shape_align_right.png') no-repeat scroll center center transparent;
+}
+.icon-shape_align_top
+  {    background: url('img/shape_align_top.png') no-repeat scroll center center transparent;
+}
+.icon-shape_flip_horizontal
+  {    background: url('img/shape_flip_horizontal.png') no-repeat scroll center center transparent;
+}
+.icon-shape_flip_vertical
+  {    background: url('img/shape_flip_vertical.png') no-repeat scroll center center transparent;
+}
+.icon-shape_group
+  {    background: url('img/shape_group.png') no-repeat scroll center center transparent;
+}
+.icon-shape_handles
+  {    background: url('img/shape_handles.png') no-repeat scroll center center transparent;
+}
+.icon-shape_move_back
+  {    background: url('img/shape_move_back.png') no-repeat scroll center center transparent;
+}
+.icon-shape_move_backwards
+  {    background: url('img/shape_move_backwards.png') no-repeat scroll center center transparent;
+}
+.icon-shape_move_forwards
+  {    background: url('img/shape_move_forwards.png') no-repeat scroll center center transparent;
+}
+.icon-shape_move_front
+  {    background: url('img/shape_move_front.png') no-repeat scroll center center transparent;
+}
+.icon-shape_rotate_anticlockwise
+  {    background: url('img/shape_rotate_anticlockwise.png') no-repeat scroll center center transparent;
+}
+.icon-shape_rotate_clockwise
+  {    background: url('img/shape_rotate_clockwise.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square
+  {    background: url('img/shape_square.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_add
+  {    background: url('img/shape_square_add.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_delete
+  {    background: url('img/shape_square_delete.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_edit
+  {    background: url('img/shape_square_edit.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_error
+  {    background: url('img/shape_square_error.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_go
+  {    background: url('img/shape_square_go.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_key
+  {    background: url('img/shape_square_key.png') no-repeat scroll center center transparent;
+}
+.icon-shape_square_link
+  {    background: url('img/shape_square_link.png') no-repeat scroll center center transparent;
+}
+.icon-shape_ungroup
+  {    background: url('img/shape_ungroup.png') no-repeat scroll center center transparent;
+}
+.icon-shield
+  {    background: url('img/shield.png') no-repeat scroll center center transparent;
+}
+.icon-shield_add
+  {    background: url('img/shield_add.png') no-repeat scroll center center transparent;
+}
+.icon-shield_delete
+  {    background: url('img/shield_delete.png') no-repeat scroll center center transparent;
+}
+.icon-shield_go
+  {    background: url('img/shield_go.png') no-repeat scroll center center transparent;
+}
+.icon-sitemap
+  {    background: url('img/sitemap.png') no-repeat scroll center center transparent;
+}
+.icon-sitemap_color
+  {    background: url('img/sitemap_color.png') no-repeat scroll center center transparent;
+}
+.icon-sound
+  {    background: url('img/sound.png') no-repeat scroll center center transparent;
+}
+.icon-sound_add
+  {    background: url('img/sound_add.png') no-repeat scroll center center transparent;
+}
+.icon-sound_delete
+  {    background: url('img/sound_delete.png') no-repeat scroll center center transparent;
+}
+.icon-sound_low
+  {    background: url('img/sound_low.png') no-repeat scroll center center transparent;
+}
+.icon-sound_mute
+  {    background: url('img/sound_mute.png') no-repeat scroll center center transparent;
+}
+.icon-sound_none
+  {    background: url('img/sound_none.png') no-repeat scroll center center transparent;
+}
+.icon-spellcheck
+  {    background: url('img/spellcheck.png') no-repeat scroll center center transparent;
+}
+.icon-sport_8ball
+  {    background: url('img/sport_8ball.png') no-repeat scroll center center transparent;
+}
+.icon-sport_basketball
+  {    background: url('img/sport_basketball.png') no-repeat scroll center center transparent;
+}
+.icon-sport_football
+  {    background: url('img/sport_football.png') no-repeat scroll center center transparent;
+}
+.icon-sport_golf
+  {    background: url('img/sport_golf.png') no-repeat scroll center center transparent;
+}
+.icon-sport_raquet
+  {    background: url('img/sport_raquet.png') no-repeat scroll center center transparent;
+}
+.icon-sport_shuttlecock
+  {    background: url('img/sport_shuttlecock.png') no-repeat scroll center center transparent;
+}
+.icon-sport_soccer
+  {    background: url('img/sport_soccer.png') no-repeat scroll center center transparent;
+}
+.icon-sport_tennis
+  {    background: url('img/sport_tennis.png') no-repeat scroll center center transparent;
+}
+.icon-star
+  {    background: url('img/star.png') no-repeat scroll center center transparent;
+}
+.icon-status_away
+  {    background: url('img/status_away.png') no-repeat scroll center center transparent;
+}
+.icon-status_busy
+  {    background: url('img/status_busy.png') no-repeat scroll center center transparent;
+}
+.icon-status_offline
+  {    background: url('img/status_offline.png') no-repeat scroll center center transparent;
+}
+.icon-status_online
+  {    background: url('img/status_online.png') no-repeat scroll center center transparent;
+}
+.icon-stop
+  {    background: url('img/stop.png') no-repeat scroll center center transparent;
+}
+.icon-style
+  {    background: url('img/style.png') no-repeat scroll center center transparent;
+}
+.icon-style_add
+  {    background: url('img/style_add.png') no-repeat scroll center center transparent;
+}
+.icon-style_delete
+  {    background: url('img/style_delete.png') no-repeat scroll center center transparent;
+}
+.icon-style_edit
+  {    background: url('img/style_edit.png') no-repeat scroll center center transparent;
+}
+.icon-style_go
+  {    background: url('img/style_go.png') no-repeat scroll center center transparent;
+}
+.icon-sum
+  {    background: url('img/sum.png') no-repeat scroll center center transparent;
+}
+.icon-tab
+  {    background: url('img/tab.png') no-repeat scroll center center transparent;
+}
+.icon-table
+  {    background: url('img/table.png') no-repeat scroll center center transparent;
+}
+.icon-table_add
+  {    background: url('img/table_add.png') no-repeat scroll center center transparent;
+}
+.icon-table_delete
+  {    background: url('img/table_delete.png') no-repeat scroll center center transparent;
+}
+.icon-table_edit
+  {    background: url('img/table_edit.png') no-repeat scroll center center transparent;
+}
+.icon-table_error
+  {    background: url('img/table_error.png') no-repeat scroll center center transparent;
+}
+.icon-table_gear
+  {    background: url('img/table_gear.png') no-repeat scroll center center transparent;
+}
+.icon-table_go
+  {    background: url('img/table_go.png') no-repeat scroll center center transparent;
+}
+.icon-table_key
+  {    background: url('img/table_key.png') no-repeat scroll center center transparent;
+}
+.icon-table_lightning
+  {    background: url('img/table_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-table_link
+  {    background: url('img/table_link.png') no-repeat scroll center center transparent;
+}
+.icon-table_multiple
+  {    background: url('img/table_multiple.png') no-repeat scroll center center transparent;
+}
+.icon-table_refresh
+  {    background: url('img/table_refresh.png') no-repeat scroll center center transparent;
+}
+.icon-table_relationship
+  {    background: url('img/table_relationship.png') no-repeat scroll center center transparent;
+}
+.icon-table_row_delete
+  {    background: url('img/table_row_delete.png') no-repeat scroll center center transparent;
+}
+.icon-table_row_insert
+  {    background: url('img/table_row_insert.png') no-repeat scroll center center transparent;
+}
+.icon-table_save
+  {    background: url('img/table_save.png') no-repeat scroll center center transparent;
+}
+.icon-table_sort
+  {    background: url('img/table_sort.png') no-repeat scroll center center transparent;
+}
+.icon-tab_add
+  {    background: url('img/tab_add.png') no-repeat scroll center center transparent;
+}
+.icon-tab_delete
+  {    background: url('img/tab_delete.png') no-repeat scroll center center transparent;
+}
+.icon-tab_edit
+  {    background: url('img/tab_edit.png') no-repeat scroll center center transparent;
+}
+.icon-tab_go
+  {    background: url('img/tab_go.png') no-repeat scroll center center transparent;
+}
+.icon-tag
+  {    background: url('img/tag.png') no-repeat scroll center center transparent;
+}
+.icon-tag_blue
+  {    background: url('img/tag_blue.png') no-repeat scroll center center transparent;
+}
+.icon-tag_blue_add
+  {    background: url('img/tag_blue_add.png') no-repeat scroll center center transparent;
+}
+.icon-tag_blue_delete
+  {    background: url('img/tag_blue_delete.png') no-repeat scroll center center transparent;
+}
+.icon-tag_blue_edit
+  {    background: url('img/tag_blue_edit.png') no-repeat scroll center center transparent;
+}
+.icon-tag_green
+  {    background: url('img/tag_green.png') no-repeat scroll center center transparent;
+}
+.icon-tag_orange
+  {    background: url('img/tag_orange.png') no-repeat scroll center center transparent;
+}
+.icon-tag_pink
+  {    background: url('img/tag_pink.png') no-repeat scroll center center transparent;
+}
+.icon-tag_purple
+  {    background: url('img/tag_purple.png') no-repeat scroll center center transparent;
+}
+.icon-tag_red
+  {    background: url('img/tag_red.png') no-repeat scroll center center transparent;
+}
+.icon-tag_yellow
+  {    background: url('img/tag_yellow.png') no-repeat scroll center center transparent;
+}
+.icon-telephone
+  {    background: url('img/telephone.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_add
+  {    background: url('img/telephone_add.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_delete
+  {    background: url('img/telephone_delete.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_edit
+  {    background: url('img/telephone_edit.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_error
+  {    background: url('img/telephone_error.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_go
+  {    background: url('img/telephone_go.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_key
+  {    background: url('img/telephone_key.png') no-repeat scroll center center transparent;
+}
+.icon-telephone_link
+  {    background: url('img/telephone_link.png') no-repeat scroll center center transparent;
+}
+.icon-television
+  {    background: url('img/television.png') no-repeat scroll center center transparent;
+}
+.icon-television_add
+  {    background: url('img/television_add.png') no-repeat scroll center center transparent;
+}
+.icon-television_delete
+  {    background: url('img/television_delete.png') no-repeat scroll center center transparent;
+}
+.icon-textfield
+  {    background: url('img/textfield.png') no-repeat scroll center center transparent;
+}
+.icon-textfield_add
+  {    background: url('img/textfield_add.png') no-repeat scroll center center transparent;
+}
+.icon-textfield_delete
+  {    background: url('img/textfield_delete.png') no-repeat scroll center center transparent;
+}
+.icon-textfield_key
+  {    background: url('img/textfield_key.png') no-repeat scroll center center transparent;
+}
+.icon-textfield_rename
+  {    background: url('img/textfield_rename.png') no-repeat scroll center center transparent;
+}
+.icon-text_align_center
+  {    background: url('img/text_align_center.png') no-repeat scroll center center transparent;
+}
+.icon-text_align_justify
+  {    background: url('img/text_align_justify.png') no-repeat scroll center center transparent;
+}
+.icon-text_align_left
+  {    background: url('img/text_align_left.png') no-repeat scroll center center transparent;
+}
+.icon-text_align_right
+  {    background: url('img/text_align_right.png') no-repeat scroll center center transparent;
+}
+.icon-text_allcaps
+  {    background: url('img/text_allcaps.png') no-repeat scroll center center transparent;
+}
+.icon-text_bold
+  {    background: url('img/text_bold.png') no-repeat scroll center center transparent;
+}
+.icon-text_columns
+  {    background: url('img/text_columns.png') no-repeat scroll center center transparent;
+}
+.icon-text_dropcaps
+  {    background: url('img/text_dropcaps.png') no-repeat scroll center center transparent;
+}
+.icon-text_heading_1
+  {    background: url('img/text_heading_1.png') no-repeat scroll center center transparent;
+}
+.icon-text_heading_2
+  {    background: url('img/text_heading_2.png') no-repeat scroll center center transparent;
+}
+.icon-text_heading_3
+  {    background: url('img/text_heading_3.png') no-repeat scroll center center transparent;
+}
+.icon-text_heading_4
+  {    background: url('img/text_heading_4.png') no-repeat scroll center center transparent;
+}
+.icon-text_heading_5
+  {    background: url('img/text_heading_5.png') no-repeat scroll center center transparent;
+}
+.icon-text_heading_6
+  {    background: url('img/text_heading_6.png') no-repeat scroll center center transparent;
+}
+.icon-text_horizontalrule
+  {    background: url('img/text_horizontalrule.png') no-repeat scroll center center transparent;
+}
+.icon-text_indent
+  {    background: url('img/text_indent.png') no-repeat scroll center center transparent;
+}
+.icon-text_indent_remove
+  {    background: url('img/text_indent_remove.png') no-repeat scroll center center transparent;
+}
+.icon-text_italic
+  {    background: url('img/text_italic.png') no-repeat scroll center center transparent;
+}
+.icon-text_kerning
+  {    background: url('img/text_kerning.png') no-repeat scroll center center transparent;
+}
+.icon-text_letterspacing
+  {    background: url('img/text_letterspacing.png') no-repeat scroll center center transparent;
+}
+.icon-text_letter_omega
+  {    background: url('img/text_letter_omega.png') no-repeat scroll center center transparent;
+}
+.icon-text_linespacing
+  {    background: url('img/text_linespacing.png') no-repeat scroll center center transparent;
+}
+.icon-text_list_bullets
+  {    background: url('img/text_list_bullets.png') no-repeat scroll center center transparent;
+}
+.icon-text_list_numbers
+  {    background: url('img/text_list_numbers.png') no-repeat scroll center center transparent;
+}
+.icon-text_lowercase
+  {    background: url('img/text_lowercase.png') no-repeat scroll center center transparent;
+}
+.icon-text_padding_bottom
+  {    background: url('img/text_padding_bottom.png') no-repeat scroll center center transparent;
+}
+.icon-text_padding_left
+  {    background: url('img/text_padding_left.png') no-repeat scroll center center transparent;
+}
+.icon-text_padding_right
+  {    background: url('img/text_padding_right.png') no-repeat scroll center center transparent;
+}
+.icon-text_padding_top
+  {    background: url('img/text_padding_top.png') no-repeat scroll center center transparent;
+}
+.icon-text_replace
+  {    background: url('img/text_replace.png') no-repeat scroll center center transparent;
+}
+.icon-text_signature
+  {    background: url('img/text_signature.png') no-repeat scroll center center transparent;
+}
+.icon-text_smallcaps
+  {    background: url('img/text_smallcaps.png') no-repeat scroll center center transparent;
+}
+.icon-text_strikethrough
+  {    background: url('img/text_strikethrough.png') no-repeat scroll center center transparent;
+}
+.icon-text_subscript
+  {    background: url('img/text_subscript.png') no-repeat scroll center center transparent;
+}
+.icon-text_superscript
+  {    background: url('img/text_superscript.png') no-repeat scroll center center transparent;
+}
+.icon-text_underline
+  {    background: url('img/text_underline.png') no-repeat scroll center center transparent;
+}
+.icon-text_uppercase
+  {    background: url('img/text_uppercase.png') no-repeat scroll center center transparent;
+}
+.icon-thumb_down
+  {    background: url('img/thumb_down.png') no-repeat scroll center center transparent;
+}
+.icon-thumb_up
+  {    background: url('img/thumb_up.png') no-repeat scroll center center transparent;
+}
+.icon-tick
+  {    background: url('img/tick.png') no-repeat scroll center center transparent;
+}
+.icon-time
+  {    background: url('img/time.png') no-repeat scroll center center transparent;
+}
+.icon-timeline_marker
+  {    background: url('img/timeline_marker.png') no-repeat scroll center center transparent;
+}
+.icon-time_add
+  {    background: url('img/time_add.png') no-repeat scroll center center transparent;
+}
+.icon-time_delete
+  {    background: url('img/time_delete.png') no-repeat scroll center center transparent;
+}
+.icon-time_go
+  {    background: url('img/time_go.png') no-repeat scroll center center transparent;
+}
+.icon-transmit
+  {    background: url('img/transmit.png') no-repeat scroll center center transparent;
+}
+.icon-transmit_add
+  {    background: url('img/transmit_add.png') no-repeat scroll center center transparent;
+}
+.icon-transmit_blue
+  {    background: url('img/transmit_blue.png') no-repeat scroll center center transparent;
+}
+.icon-transmit_delete
+  {    background: url('img/transmit_delete.png') no-repeat scroll center center transparent;
+}
+.icon-transmit_edit
+  {    background: url('img/transmit_edit.png') no-repeat scroll center center transparent;
+}
+.icon-transmit_error
+  {    background: url('img/transmit_error.png') no-repeat scroll center center transparent;
+}
+.icon-transmit_go
+  {    background: url('img/transmit_go.png') no-repeat scroll center center transparent;
+}
+.icon-tux
+  {    background: url('img/tux.png') no-repeat scroll center center transparent;
+}
+.icon-user
+  {    background: url('img/user.png') no-repeat scroll center center transparent;
+}
+.icon-user_add
+  {    background: url('img/user_add.png') no-repeat scroll center center transparent;
+}
+.icon-user_comment
+  {    background: url('img/user_comment.png') no-repeat scroll center center transparent;
+}
+.icon-user_delete
+  {    background: url('img/user_delete.png') no-repeat scroll center center transparent;
+}
+.icon-user_edit
+  {    background: url('img/user_edit.png') no-repeat scroll center center transparent;
+}
+.icon-user_female
+  {    background: url('img/user_female.png') no-repeat scroll center center transparent;
+}
+.icon-user_go
+  {    background: url('img/user_go.png') no-repeat scroll center center transparent;
+}
+.icon-user_gray
+  {    background: url('img/user_gray.png') no-repeat scroll center center transparent;
+}
+.icon-user_green
+  {    background: url('img/user_green.png') no-repeat scroll center center transparent;
+}
+.icon-user_orange
+  {    background: url('img/user_orange.png') no-repeat scroll center center transparent;
+}
+.icon-user_red
+  {    background: url('img/user_red.png') no-repeat scroll center center transparent;
+}
+.icon-user_suit
+  {    background: url('img/user_suit.png') no-repeat scroll center center transparent;
+}
+.icon-vcard
+  {    background: url('img/vcard.png') no-repeat scroll center center transparent;
+}
+.icon-vcard_add
+  {    background: url('img/vcard_add.png') no-repeat scroll center center transparent;
+}
+.icon-vcard_delete
+  {    background: url('img/vcard_delete.png') no-repeat scroll center center transparent;
+}
+.icon-vcard_edit
+  {    background: url('img/vcard_edit.png') no-repeat scroll center center transparent;
+}
+.icon-vector
+  {    background: url('img/vector.png') no-repeat scroll center center transparent;
+}
+.icon-vector_add
+  {    background: url('img/vector_add.png') no-repeat scroll center center transparent;
+}
+.icon-vector_delete
+  {    background: url('img/vector_delete.png') no-repeat scroll center center transparent;
+}
+.icon-wand
+  {    background: url('img/wand.png') no-repeat scroll center center transparent;
+}
+.icon-weather_clouds
+  {    background: url('img/weather_clouds.png') no-repeat scroll center center transparent;
+}
+.icon-weather_cloudy
+  {    background: url('img/weather_cloudy.png') no-repeat scroll center center transparent;
+}
+.icon-weather_lightning
+  {    background: url('img/weather_lightning.png') no-repeat scroll center center transparent;
+}
+.icon-weather_rain
+  {    background: url('img/weather_rain.png') no-repeat scroll center center transparent;
+}
+.icon-weather_snow
+  {    background: url('img/weather_snow.png') no-repeat scroll center center transparent;
+}
+.icon-weather_sun
+  {    background: url('img/weather_sun.png') no-repeat scroll center center transparent;
+}
+.icon-webcam
+  {    background: url('img/webcam.png') no-repeat scroll center center transparent;
+}
+.icon-webcam_add
+  {    background: url('img/webcam_add.png') no-repeat scroll center center transparent;
+}
+.icon-webcam_delete
+  {    background: url('img/webcam_delete.png') no-repeat scroll center center transparent;
+}
+.icon-webcam_error
+  {    background: url('img/webcam_error.png') no-repeat scroll center center transparent;
+}
+.icon-world
+  {    background: url('img/world.png') no-repeat scroll center center transparent;
+}
+.icon-world_add
+  {    background: url('img/world_add.png') no-repeat scroll center center transparent;
+}
+.icon-world_delete
+  {    background: url('img/world_delete.png') no-repeat scroll center center transparent;
+}
+.icon-world_edit
+  {    background: url('img/world_edit.png') no-repeat scroll center center transparent;
+}
+.icon-world_go
+  {    background: url('img/world_go.png') no-repeat scroll center center transparent;
+}
+.icon-world_link
+  {    background: url('img/world_link.png') no-repeat scroll center center transparent;
+}
+.icon-wrench
+  {    background: url('img/wrench.png') no-repeat scroll center center transparent;
+}
+.icon-wrench_orange
+  {    background: url('img/wrench_orange.png') no-repeat scroll center center transparent;
+}
+.icon-xhtml
+  {    background: url('img/xhtml.png') no-repeat scroll center center transparent;
+}
+.icon-xhtml_add
+  {    background: url('img/xhtml_add.png') no-repeat scroll center center transparent;
+}
+.icon-xhtml_delete
+  {    background: url('img/xhtml_delete.png') no-repeat scroll center center transparent;
+}
+.icon-xhtml_go
+  {    background: url('img/xhtml_go.png') no-repeat scroll center center transparent;
+}
+.icon-xhtml_valid
+  {    background: url('img/xhtml_valid.png') no-repeat scroll center center transparent;
+}
+.icon-zoom
+  {    background: url('img/zoom.png') no-repeat scroll center center transparent;
+}
+.icon-zoom_in
+  {    background: url('img/zoom_in.png') no-repeat scroll center center transparent;
+}
+.icon-zoom_out
+  {    background: url('img/zoom_out.png') no-repeat scroll center center transparent;
+}
